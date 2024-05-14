@@ -178,9 +178,10 @@ As the mage delves deeper into this paradox, they inadvertently disrupt the fabr
 > - The consequence or "reward" of completing the quest is a small insight into the enigmatic nature of the Elder Scrolls universe, leaving the adventurer with more questions than answers.
 >
 > This approach maintains the tone of curiosity and intrigue while exploring the profound mysteries of the Elder Scrolls lore. The quest serves as a footnote in history, offering players a glimpse into the deeper mysteries of the universe.
- { #MW-Modathon-2024-W1-CGPT-PlotOutline}
+{ #b118af}
 
 
+ 
 > [!Warning] Switch from ChatGPT 3.5 to 4.0 occurs here
 > 
 > The chat transcript was copied and pasted into a new conversation with the ChatGPT 4.0 model AI.
