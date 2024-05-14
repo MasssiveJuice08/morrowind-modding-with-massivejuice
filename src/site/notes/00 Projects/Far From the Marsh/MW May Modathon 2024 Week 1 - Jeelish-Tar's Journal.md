@@ -187,7 +187,7 @@
 > ---
 >
 > These entries aim to capture the mage's personality and communication style more authentically, balancing the poetic nature of Argonian speech with their scholarly pursuits.
-{ #MW-Modathon-2024-W1-CGPT-JournalEntries}
+{ #f97303}
 
 
 #### Formatting as a Book in Morrowind
