@@ -46,7 +46,7 @@ You can find ther cave west of Dagon Fel. Follow the road west and then north to
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Brainstorming\|MW May Modathon 2024 Week 1 - Brainstorming]]                 | May 14, 2024  |
 | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Dialogue\|MW May Modathon 2024 Week 1 - Dialogue]]                           | May 13, 2024  |
-| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal\|MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal]] | May 13, 2024  |
+| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal\|MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal]] | May 14, 2024  |
 | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Plot Outline\|MW May Modathon 2024 Week 1 - Plot Outline]]                   | May 14, 2024  |
 | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Timeline\|MW May Modathon 2024 Week 1 - Timeline]]                           | May 13, 2024  |
 
@@ -76,7 +76,10 @@ Week one theme - **'Mysticism and Prophecy'**
 
 
 
-> [!note|clean no-title]
+> [!recite] Theme - 'Mysticism and Prophecy'
+> 
+> These are the two possible concepts I came up with for the theme:
+>  
 > > [!success] Option One: _A Missing Student of Mysticism_
 > >
 > > - explore their home/laboratory and pick up the pieces of what happened through fragmentary notes
@@ -88,6 +91,8 @@ Week one theme - **'Mysticism and Prophecy'**
 > > [!failure] Option Two: _The Failed Nerevarine Incarnates_
 > > - Perhaps an exploration of the fate of one of the [Failed Incarnates](https://en.uesp.net/wiki/Lore:Failed_Incarnates) such as [[02 Reference Notes/Omnivore/2024-04/Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Peakstar]]
 > > 	- Though rumors abound regarding Peakstars fate, they fell fighting an Ash Vampire. A quest could follow someone else's attempts to find them
+> 
+> Ultimately I decided against the second option, as I could not come up with a convincing enough concept for the fate of any of the Failed Incarnates. The first option offered more flexibility.
 
 </div></div>
 
@@ -295,8 +300,8 @@ As the mage delves deeper into this paradox, they inadvertently disrupt the fabr
 > - The consequence or "reward" of completing the quest is a small insight into the enigmatic nature of the Elder Scrolls universe, leaving the adventurer with more questions than answers.
 >
 > This approach maintains the tone of curiosity and intrigue while exploring the profound mysteries of the Elder Scrolls lore. The quest serves as a footnote in history, offering players a glimpse into the deeper mysteries of the universe.
-> 
-> ^MW-Modathon-2024-W1-CGPT-PlotOutline
+ 
+^MW-Modathon-2024-W1-CGPT-PlotOutline
 
 > [!Warning] Switch from ChatGPT 3.5 to 4.0 occurs here
 > 
@@ -498,8 +503,8 @@ As the mage delves deeper into this paradox, they inadvertently disrupt the fabr
 > ---
 >
 > These entries aim to capture the mage's personality and communication style more authentically, balancing the poetic nature of Argonian speech with their scholarly pursuits.
-> 
-> ^MW-Modathon-2024-W1-CGPT-JournalEntries
+
+^MW-Modathon-2024-W1-CGPT-JournalEntries
 
 #### Formatting as a Book in Morrowind
 
