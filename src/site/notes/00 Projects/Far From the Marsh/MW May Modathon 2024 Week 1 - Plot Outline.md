@@ -19,6 +19,8 @@ Drafting a plot outline using ChatGPT to generate ideas and distill my thoughts.
 > The book I mentioned earlier ('Mysticism' by the in-universe author Tetronius Lor) describes that "For the beginning student of Mysticism, it is best simply to learn the patterns distinguishable in the maelstrom of centuries past. The more patterns are discovered, the clearer the remaining ones become. Until, of course, they change. For inevitably they have to. And then the journey begins anew". Perhaps they were searching for a particular 'pattern', something prophesized. "Mysticism seems to derive power from its conundrums and paradoxes"; perhaps they elucidated a paradox from the patterns of mysticism that removed them from existence. 
 > 
 > Please summarize your ideas in bullet-points.
+{ #47b3b1}
+
 
 > [!recite|color-purple]- ChatGPT Response 1 - Plot Outline Draft:
 > - The protagonist, an adventurer, is drawn to the abandoned abode of a mage who specialized in Mysticism magic, located in the mystical land of Vvardenfell.
