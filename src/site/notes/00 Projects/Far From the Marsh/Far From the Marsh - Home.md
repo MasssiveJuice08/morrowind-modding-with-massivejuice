@@ -76,12 +76,14 @@ Week one theme - **'Mysticism and Prophecy'**
 
 
 
-> [!column|no-title]
-> > [!success] Option One: _A missing student of mysticism_
+> [!note|clean no-title]
+> > [!success] Option One: _A Missing Student of Mysticism_
 > >
 > > - explore their home/laboratory and pick up the pieces of what happened through fragmentary notes
 > > - lost while trying to discern patterns from the past - in search of a prophecy?
 > > - Tell a story in a single room through notes and environmental worldbuilding 
+>
+><br>
 >
 > > [!failure] Option Two: _The Failed Nerevarine Incarnates_
 > > - Perhaps an exploration of the fate of one of the [Failed Incarnates](https://en.uesp.net/wiki/Lore:Failed_Incarnates) such as [[02 Reference Notes/Omnivore/2024-04/Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Peakstar]]
