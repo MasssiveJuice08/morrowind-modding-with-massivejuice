@@ -6,7 +6,10 @@
 
 ### Brainstorming Plot Ideas
 
-> [!note|clean no-title]
+> [!recite] Theme - 'Mysticism and Prophecy'
+> 
+> These are the two possible concepts I came up with for the theme:
+>  
 > > [!success] Option One: _A Missing Student of Mysticism_
 > >
 > > - explore their home/laboratory and pick up the pieces of what happened through fragmentary notes
@@ -18,6 +21,8 @@
 > > [!failure] Option Two: _The Failed Nerevarine Incarnates_
 > > - Perhaps an exploration of the fate of one of the [Failed Incarnates](https://en.uesp.net/wiki/Lore:Failed_Incarnates) such as [[02 Reference Notes/Omnivore/2024-04/Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Peakstar]]
 > > 	- Though rumors abound regarding Peakstars fate, they fell fighting an Ash Vampire. A quest could follow someone else's attempts to find them
+> 
+> Ultimately I decided against the second option, as I could not come up with a convincing enough concept for the fate of any of the Failed Incarnates. The first option offered more flexibility.
 { #b8a259}
 
 
