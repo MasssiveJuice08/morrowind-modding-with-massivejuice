@@ -6,11 +6,13 @@
 
 ### Brainstorming Plot Ideas
 1. **A missing student of mysticism**
+{ #b8a259}
+
 	- explore their home/laboratory and pick up the pieces of what happened through fragmentary notes
 	- lost while trying to discern patterns from the past - in search of a prophecy?
 	- Tell a story in a single room through notes and environmental worldbuilding
 2. **The Nerevarine Prophecies**
-	- Perhaps an exploration of the fate of one of the [Failed Incarnates](https://en.uesp.net/wiki/Lore:Failed_Incarnates) such as [[02 Reference Notes/Omnivore/2024-04/2024-04-30 Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Peakstar]]
+	- Perhaps an exploration of the fate of one of the [Failed Incarnates](https://en.uesp.net/wiki/Lore:Failed_Incarnates) such as [[02 Reference Notes/Omnivore/2024-04/Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Peakstar]]
 		- Though rumors abound regarding Peakstars fate, they fell fighting an Ash Vampire. A quest could follow someone else's attempts to find them
 
 > [!success] Option 1 Chosen
