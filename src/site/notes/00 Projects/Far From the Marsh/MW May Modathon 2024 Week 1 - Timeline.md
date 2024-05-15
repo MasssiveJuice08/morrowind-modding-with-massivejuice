@@ -5,6 +5,7 @@
 
 ## Timeline of events leading to Jeelish-Tar's disappearance
 
+
 > [!timeline|t-l] **3E 396** _The Arnesian War_
 > During the Imperial Simulacrum a slave revolt escalated into the [Arnesian War](https://en.m.uesp.net/wiki/Lore:Arnesian_War), with Black Marsh being defeated by Morrowind and losing a significant amount of territory.
 
