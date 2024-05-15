@@ -31,12 +31,17 @@ A mod for Week One of the 2024 Morrowind Modathon theme, **'Mysticism and Prophe
 > | ---- | ---- |
 > | [NexusMods](https://www.nexusmods.com/morrowind/mods/54612) | Intial release |
 > | [Github](https://github.com/MasssiveJuice08/Far-From-The-Marsh) | WIP builds |
+> 
+> ##### Status
+> In active development
 
 ### Description:
 
 A Mages Guild member studying hidden patterns of Mysticism and prophecy has gone missing. Explore their cave retreat in Sheogorad for clues about their ultimate fate. A quest outline and initial dialogue has been written, but not yet implemented; this will be added in a future update. In the meantime, you can expect a pretty cave with the mage's journal and some environmental story-telling.   
   
 You can find ther cave west of Dagon Fel. Follow the road west and then north to a river crossing – the cave entrance is on the left.
+
+<br>
 
 ---
 
@@ -48,7 +53,7 @@ You can find ther cave west of Dagon Fel. Follow the road west and then north to
 | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Dialogue\|MW May Modathon 2024 Week 1 - Dialogue]]                           | May 13, 2024  |
 | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal\|MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal]] | May 14, 2024  |
 | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Plot Outline\|MW May Modathon 2024 Week 1 - Plot Outline]]                   | May 14, 2024  |
-| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Timeline\|MW May Modathon 2024 Week 1 - Timeline]]                           | May 13, 2024  |
+| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Timeline\|MW May Modathon 2024 Week 1 - Timeline]]                           | May 15, 2024  |
 
 { .block-language-dataview}
 
@@ -66,6 +71,8 @@ Working with ChatGPT as a creative 'partner' makes for a very frictionless creat
 Friction is not always a bad thing in creative processes though; conflict and restrictions can be great stimuli for creativity. With that in mind, what ChatGPT lacks as a creative tool that a human does not is:
 - It can take creative feedback, but it won't give it back (unprompted, that is) - if you give it a creative prompt for a terrible script idea, _it'll do it anyway_, for better or worse.
 - It won't fight for _'its'_[^1] own ideas and argue that theirs should be used over your own ideas 
+
+Given the AI's limitations, seeking critical feedback from other modders will remain an important step in the creative process. That being said, ChatGPT has proved to be an invaluable tool in the initial developmental stage.
 
 ### Brainstorming the Concept
 
