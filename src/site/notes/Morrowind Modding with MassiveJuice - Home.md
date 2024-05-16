@@ -14,13 +14,13 @@ I make Morrowind mods and one day I hope to actually finish one of them. You can
 
 > [!cards|3]
 > **[[00 Projects/Far From the Marsh/Far From the Marsh - Home\|Far From the Marsh]]**
-> [![MJ_FFTM_v0-5_img_01.png|sban htiny ctr](/img/user/Assets/Far-From-The-Marsh/MJ_FFTM_v0-5_img_01.png)](<Far From the Marsh - Home>)
+> [![MJ_FFTM_v0-5_img_01.png|sban htiny ctr](/img/user/Assets/Far-From-The-Marsh/MJ_FFTM_v0-5_img_01.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/far-from-the-marsh/far-from-the-marsh-home/)
 > 
 > **[[00 Projects/Secret of Vilmuhn/Secret of Vilmuhn - Home\|Secret of Vilmuhn]]**
-> [![SOV_02-01-24_preview_12.png|sban htiny ctr](/img/user/Assets/Secret-of-Vilmuhn/SOV_02-01-24_preview_12.png)](<Secret of Vilmuhn - Home>)
+> [![SOV_02-01-24_preview_12.png|sban htiny ctr](/img/user/Assets/Secret-of-Vilmuhn/SOV_02-01-24_preview_12.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/secret-of-vilmuhn/secret-of-vilmuhn-home/)
 > 
 > **[[00 Projects/N'Gasta Pasta/N'Gasta Pasta - Home\|N'Gasta Pasta]]**
-> [![N'Gasta-Pasta_Banner.webp|sban htiny ctr](/img/user/Assets/N'Gasta-Pasta/N'Gasta-Pasta_Banner.webp)](<N'Gasta Pasta - Home>)
+> [![N'Gasta-Pasta_Banner.webp|sban htiny ctr](/img/user/Assets/N'Gasta-Pasta/N'Gasta-Pasta_Banner.webp)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/n-gasta-pasta/n-gasta-pasta-home/)
 
 
 ## Who is Rupert?
