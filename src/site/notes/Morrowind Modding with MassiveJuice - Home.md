@@ -6,7 +6,7 @@
 
 ![Homepage-Banner.png](/img/user/Assets/Homepage-Banner.png)
 
-![Profile_Picture.jpg|profile left](/img/user/Assets/Profile_Picture.jpg)
+![Profile_Picture.jpg|profile left htiny wtiny](/img/user/Assets/Profile_Picture.jpg)
 
 **Kia ora**, I'm MassiveJuice! I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process.
 
@@ -22,7 +22,7 @@
 
 ## Who is Rupert?
 
-![Rupert_Profile.png|profile right](/img/user/Assets/Rupert_Profile.png)
+![Rupert_Profile.png|profile right htiny wtiny](/img/user/Assets/Rupert_Profile.png)
 
 He's our cat. Or rather, I'm his human. The running joke (it's not a joke, I'm dead serious, this is 100% fact) is that Rupert is the true author of all my Morrowind mods and I, as the human with opposable thumbs, merely press the keys for him. 
 
