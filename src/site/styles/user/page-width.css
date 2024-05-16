@@ -1,0 +1,3 @@
+main.content {
+    max-width: max(800px, calc(100% - 300px - 300px))
+}
