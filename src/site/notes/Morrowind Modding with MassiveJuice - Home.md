@@ -4,23 +4,23 @@
 
 ## Welcome! 
 
-![Homepage-Banner.png](/img/user/Assets/Homepage-Banner.png)
-
 ![Profile_Picture.jpg|profile left htiny wtiny](/img/user/Assets/Profile_Picture.jpg)
 
-**Kia ora**, I'm MassiveJuice! I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process.
+Kia ora, I'm **MassiveJuice**!
+
+I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process.
 
 ## Projects
 
 > [!cards|3]
 > **[[00 Projects/Far From the Marsh/Far From the Marsh - Home\|Far From the Marsh]]**
-> ![MJ_FFTM_v0-5_img_01.png|sban htiny ctr](/img/user/Assets/Far-From-The-Marsh/MJ_FFTM_v0-5_img_01.png)
+> [![MJ_FFTM_v0-5_img_01.png|sban htiny ctr](/img/user/Assets/Far-From-The-Marsh/MJ_FFTM_v0-5_img_01.png)](<Far From the Marsh - Home>)
 > 
 > **[[00 Projects/Secret of Vilmuhn/Secret of Vilmuhn - Home\|Secret of Vilmuhn]]**
-> ![SOV_02-01-24_preview_12.png|sban htiny ctr](/img/user/Assets/Secret-of-Vilmuhn/SOV_02-01-24_preview_12.png)
+> [![SOV_02-01-24_preview_12.png|sban htiny ctr](/img/user/Assets/Secret-of-Vilmuhn/SOV_02-01-24_preview_12.png)](<Secret of Vilmuhn - Home>)
 > 
 > **[[00 Projects/N'Gasta Pasta/N'Gasta Pasta - Home\|N'Gasta Pasta]]**
-> ![N'Gasta-Pasta_Banner.webp|sban htiny ctr](/img/user/Assets/N'Gasta-Pasta/N'Gasta-Pasta_Banner.webp)
+> [![N'Gasta-Pasta_Banner.webp|sban htiny ctr](/img/user/Assets/N'Gasta-Pasta/N'Gasta-Pasta_Banner.webp)](<N'Gasta Pasta - Home>)
 
 
 ## Who is Rupert?
@@ -31,3 +31,6 @@ He's our cat. Or rather, I'm his human. The running joke (it's not a joke, I'm d
 
 Rupert is my number one obsession. I'm his biggest fan. He is 'da boy', 'he who hungers for bikkies', 'da fuzzy baby', and sometimes he can even be found actually awake (but mostly he slumbers, dreaming of Morrowind mods and fooooood).
 
+---
+
+![Homepage-Banner.png|banner-tall](/img/user/Assets/Homepage-Banner.png)
