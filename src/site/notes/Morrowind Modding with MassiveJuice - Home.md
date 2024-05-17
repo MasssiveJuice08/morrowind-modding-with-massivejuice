@@ -12,15 +12,19 @@ I make Morrowind mods and one day I hope to actually finish one of them. You can
 
 ## Projects
 
-> [!cards|3]
+> [!cards|2]
 > **[[00 Projects/Far From the Marsh/Far From the Marsh - Home\|Far From the Marsh]]**
 > [![MJ_FFTM_v0-5_img_01.png|sban htiny ctr](/img/user/Assets/Far-From-The-Marsh/MJ_FFTM_v0-5_img_01.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/far-from-the-marsh/far-from-the-marsh-home/)
 > 
 > **[[00 Projects/Secret of Vilmuhn/Secret of Vilmuhn - Home\|Secret of Vilmuhn]]**
 > [![SOV_02-01-24_preview_12.png|sban htiny ctr](/img/user/Assets/Secret-of-Vilmuhn/SOV_02-01-24_preview_12.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/secret-of-vilmuhn/secret-of-vilmuhn-home/)
-> 
+
+> [!cards|2]
 > **[[00 Projects/N'Gasta Pasta/N'Gasta Pasta - Home\|N'Gasta Pasta]]**
 > [![N'Gasta-Pasta_Banner.webp|sban htiny ctr](/img/user/Assets/N'Gasta-Pasta/N'Gasta-Pasta_Banner.webp)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/n-gasta-pasta/n-gasta-pasta-home/)
+> 
+> **[[00 Projects/Morrowind Modding Wiki/Morrowind Modding Wiki - Home\|Morrowind Modding Wiki]]**
+> [![MMW_Logo.png|sban htiny ctr](/img/user/Assets/Morrowind_Modding_Wiki/MMW_Logo.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/)
 
 
 ## Who is Rupert?
