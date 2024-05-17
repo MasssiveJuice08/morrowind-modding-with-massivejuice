@@ -31,7 +31,7 @@ A mod for the 2023 Morrowind Summer Modjam.
 > | [NexusMods](https://www.nexusmods.com/morrowind/mods/53321) | Intial release |
 > 
 > ##### Status
-> Indefinite hiatus
+> - [C] Indefinite hiatus
 
 ### Description
 
