@@ -33,7 +33,7 @@ A mod for Week One of the 2024 Morrowind Modathon theme, **'Mysticism and Prophe
 > | [Github](https://github.com/MasssiveJuice08/Far-From-The-Marsh) | WIP builds |
 > 
 > ##### Status
-> In active development
+> - [P] In active development
 
 ### Description:
 
