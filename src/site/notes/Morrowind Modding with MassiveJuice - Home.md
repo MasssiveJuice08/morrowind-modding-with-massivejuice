@@ -31,6 +31,14 @@ He's our cat. Or rather, I'm his human. The running joke (it's not a joke, I'm d
 
 Rupert is my number one obsession. I'm his biggest fan. He is 'da boy', 'he who hungers for bikkies', 'da fuzzy baby', and sometimes he can even be found actually awake (but mostly he slumbers, dreaming of Morrowind mods and fooooood).
 
+#### Here's what other modders have to say about Rupert:
+
+![Rupert_quote_01.jpg|center](/img/user/Assets/Rupert_quote_01.jpg)
+
+![Rupert_quote_02.jpg|center](/img/user/Assets/Rupert_quote_02.jpg)
+
+![Rupert_quote_03.jpg|center](/img/user/Assets/Rupert_quote_03.jpg)
+
 ---
 
 ![Homepage-Banner.png|banner-tall](/img/user/Assets/Homepage-Banner.png)
