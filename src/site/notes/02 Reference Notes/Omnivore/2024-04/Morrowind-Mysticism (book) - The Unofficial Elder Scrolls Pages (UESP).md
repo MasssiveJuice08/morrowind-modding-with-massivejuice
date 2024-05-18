@@ -3,13 +3,13 @@
 ---
 
 
-# Morrowind:Mysticism (book) - The Unofficial Elder Scrolls Pages (UESP)
+## Morrowind:Mysticism (book) - The Unofficial Elder Scrolls Pages (UESP)
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/morrowind-mysticism-book-the-unofficial-elder-scrolls-pages-uesp-18f2df39ed1)
 [Read Original](https://en.uesp.net/wiki/Morrowind:Mysticism_(book))
 
-## Highlights
+### Highlights
 
 > The [Psijics](https://en.uesp.net/wiki/Lore:Psijic%5FOrder "Lore:Psijic Order") of the [Isle of Artaeum](https://en.uesp.net/wiki/Lore:Artaeum "Lore:Artaeum") have a different term for Mysticism: the Old Way. The phrase becomes bogged in semantic quagmire because the Old Way also refers to the religion and customs of the Psijics, which may or may not be part of the magic of Mysticism. [⤴️](https://omnivore.app/me/morrowind-mysticism-book-the-unofficial-elder-scrolls-pages-uesp-18f2df39ed1#1f52d08e-f1b3-40de-b09e-864bdba4c148) 
 { #1f52d08e}
