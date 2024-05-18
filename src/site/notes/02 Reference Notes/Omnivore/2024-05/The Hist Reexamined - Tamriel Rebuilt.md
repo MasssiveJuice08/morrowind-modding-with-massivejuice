@@ -3,13 +3,13 @@
 ---
 
 
-# The Hist Reexamined | Tamriel Rebuilt
+## The Hist Reexamined | Tamriel Rebuilt
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-www-tamriel-rebuilt-org-forum-hist-reexamined-18f6153b6d8)
 [Read Original](https://www.tamriel-rebuilt.org/forum/hist-reexamined)
 
-## Highlights
+### Highlights
 
 > The Hist are vast soul repositories, self-contained Towers of their previous reality, containg oceans of sap memories. There is no governing intellect at work, they are simply too big and their real mind moves at molasses. [⤴️](https://omnivore.app/me/https-www-tamriel-rebuilt-org-forum-hist-reexamined-18f6153b6d8#201f324a-06c6-44db-b13e-18cb34a1b1c1) 
 { #201f324a}
