@@ -29,7 +29,8 @@ A team mod for week four of the 2023 Morrowind May Modathon by _Team Massive Vom
 > | [Github](https://github.com/MasssiveJuice08/Secret-of-Vilmuhn) | WIP builds |
 > 
 > ##### Status
-> - [P] In active development; brief hiatus
+> 
+> > [!success|title-center] In active development (brief hiatus)
 
 ### Description
 
