@@ -3,7 +3,7 @@
 ---
 
 
-![MMW_Logo.png|center](/img/user/Assets/Morrowind_Modding_Wiki/MMW_Logo.png)
+![MMW_Logo.png|hm-sm center](/img/user/Assets/Morrowind_Modding_Wiki/MMW_Logo.png)
 
 ---
 
