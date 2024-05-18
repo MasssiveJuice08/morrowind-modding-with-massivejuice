@@ -24,7 +24,7 @@ I make Morrowind mods and one day I hope to actually finish one of them. You can
 > [![N'Gasta-Pasta_Banner.webp|sban htiny ctr](/img/user/Assets/N'Gasta-Pasta/N'Gasta-Pasta_Banner.webp)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/n-gasta-pasta/n-gasta-pasta-home/)
 > 
 > **[[00 Projects/Morrowind Modding Wiki/Morrowind Modding Wiki - Home\|Morrowind Modding Wiki]]**
-> [![MMW_Logo.png|sban htiny ctr](/img/user/Assets/Morrowind_Modding_Wiki/MMW_Logo.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/)
+> [![MMW_Logo.png|sban htiny ctr p+bc](/img/user/Assets/Morrowind_Modding_Wiki/MMW_Logo.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/)
 
 
 ## Who is Rupert?
@@ -35,13 +35,13 @@ He's our cat. Or rather, I'm his human. The running joke (it's not a joke, I'm d
 
 Rupert is my number one obsession. I'm his biggest fan. He is 'da boy', 'he who hungers for bikkies', 'da fuzzy baby', and sometimes he can even be found actually awake (but mostly he slumbers, dreaming of Morrowind mods and fooooood).
 
-#### Here's what other modders have to say about Rupert:
+### Here's what other modders have to say about Rupert:
 
-![Rupert_quote_01.jpg|center](/img/user/Assets/Rupert_quote_01.jpg)
+![Rupert_quote_01.jpg|wm-sm](/img/user/Assets/Rupert_quote_01.jpg)
 
-![Rupert_quote_02.jpg|center](/img/user/Assets/Rupert_quote_02.jpg)
+![Rupert_quote_02.jpg|wm-sm](/img/user/Assets/Rupert_quote_02.jpg)
 
-![Rupert_quote_03.jpg|center](/img/user/Assets/Rupert_quote_03.jpg)
+![Rupert_quote_03.jpg|wm-sm](/img/user/Assets/Rupert_quote_03.jpg)
 
 ---
 
