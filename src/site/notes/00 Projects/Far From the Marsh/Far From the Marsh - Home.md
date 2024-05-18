@@ -35,6 +35,8 @@ A mod for Week One of the 2024 Morrowind Modathon theme, **'Mysticism and Prophe
 > ##### Status
 > - [P] In active development
 
+- [P] In active development
+
 ### Description:
 
 A Mages Guild member studying hidden patterns of Mysticism and prophecy has gone missing. Explore their cave retreat in Sheogorad for clues about their ultimate fate. A quest outline and initial dialogue has been written, but not yet implemented; this will be added in a future update. In the meantime, you can expect a pretty cave with the mage's journal and some environmental story-telling.   
