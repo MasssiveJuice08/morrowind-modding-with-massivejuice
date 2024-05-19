@@ -1,14 +1,14 @@
-#MJ-site-footer div {
+footer {
     display: block;
-    max-width: 800px !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 4rem;
     text-align: left;
 }
 
-#Mj-site-footer div > ul {
-    display: flex !important; 
+footer > ul {
+    display: flex; 
     flex-wrap: wrap;
     gap: 1rem;
     list-style: none;
