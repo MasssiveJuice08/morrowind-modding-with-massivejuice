@@ -4,13 +4,13 @@ footer {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 4rem;
-    margin-top: 4rem;
+    margin-top: 8rem;
     text-align: left;
 }
 
 footer > ul {
     display: flex; 
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 4rem;
     list-style: none !important;
 }
