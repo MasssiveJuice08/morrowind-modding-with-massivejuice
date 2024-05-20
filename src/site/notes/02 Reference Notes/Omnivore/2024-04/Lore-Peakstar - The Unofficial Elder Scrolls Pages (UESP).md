@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-reference-notes/omnivore/2024-04/lore-peakstar-the-unofficial-elder-scrolls-pages-uesp/","title":"Lore:Peakstar - The Unofficial Elder Scrolls Pages (UESP)","tags":["Mysticism","prophecy","MW-May-Modathon-2024"]}
+{"dg-publish":true,"permalink":"/02-reference-notes/omnivore/2024-04/lore-peakstar-the-unofficial-elder-scrolls-pages-uesp/","title":"Lore:Peakstar - The Unofficial Elder Scrolls Pages (UESP)\n","metatags":{"description":"The UESPWiki – Your source for The Elder Scrolls since 1995","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["Mysticism","prophecy","MW-May-Modathon-2024"]}
 ---
 
 
