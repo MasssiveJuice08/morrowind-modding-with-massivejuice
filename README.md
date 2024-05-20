@@ -1,9 +1,12 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# [Morrowind Modding with MassiveJuice](https://morrowind-modding-with-massivejuice.vercel.app/)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+This repository is the source code for my website
 
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+![Morrowind Modding with MassiveJuice logo](https://i.imgur.com/bdAW9ne.png)
+
+## Credits
+
+- Authored in [Obsidian.md](https://obsidian.md/)
+- Built with [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden)
+- Comments powered by [Giscus](https://github.com/giscus/giscus)
+- [Omnivore.app](https://omnivore.app/) for citing and quoting sources
