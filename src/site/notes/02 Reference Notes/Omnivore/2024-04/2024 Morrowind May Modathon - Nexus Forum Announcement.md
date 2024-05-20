@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-reference-notes/omnivore/2024-04/2024-morrowind-may-modathon-nexus-forum-announcement/","title":"2024 Morrowind May Modathon - Nexus Forum Announcement","tags":["MW-May-Modathon-2024"]}
+{"dg-publish":true,"permalink":"/02-reference-notes/omnivore/2024-04/2024-morrowind-may-modathon-nexus-forum-announcement/","title":"2024 Morrowind May Modathon - Nexus Forum Announcement\n","metatags":{"description":"The 2024 Morrowind May Modathon Month Modding Competition - May 1st-June 2nd Looking to participate? Use the Modathon Logo in your mod description! Also, check out the Achievements Banner (Color Achievements Banner Black and White Achievements Banner) Got questions? Stop by the Modathon Discord C...","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["MW-May-Modathon-2024"]}
 ---
 
 
