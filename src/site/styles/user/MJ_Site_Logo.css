@@ -1,0 +1,7 @@
+.MJ-Site-Logo a img {
+    min-width: 50px;
+    max-width: 240px;
+    min-height: 50px;
+    max-height: 650px;
+    margin: auto;
+}
