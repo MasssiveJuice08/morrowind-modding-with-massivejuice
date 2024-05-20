@@ -218,14 +218,14 @@ Week one theme - **'Mysticism and Prophecy'**
 
 | Note Title                                                                                                                                                                                                    | Last Modified |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[02 Reference Notes/Omnivore/2024-04/2024 Morrowind May Modathon - Nexus Forum Announcement\|2024 Morrowind May Modathon - Nexus Forum Announcement]]                                                     | May 18, 2024  |
-| [[02 Reference Notes/Omnivore/2024-05/Cultures of Argonia\|Cultures of Argonia]]                                                                                                                           | May 18, 2024  |
-| [[02 Reference Notes/Omnivore/2024-04/Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)]]                                               | May 18, 2024  |
-| [[02 Reference Notes/Omnivore/2024-05/Morrowind-Generic Dialogue- Argonian - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Generic Dialogue- Argonian - The Unofficial Elder Scrolls Pages (UESP)]] | May 18, 2024  |
-| [[02 Reference Notes/Omnivore/2024-04/Morrowind-Mysticism (book) - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Mysticism (book) - The Unofficial Elder Scrolls Pages (UESP)]]                     | May 18, 2024  |
-| [[02 Reference Notes/Omnivore/2024-04/Morrowind-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Peakstar - The Unofficial Elder Scrolls Pages (UESP)]]                                     | May 18, 2024  |
-| [[02 Reference Notes/Omnivore/2024-04/Morrowind-Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)]]                   | May 18, 2024  |
-| [[02 Reference Notes/Omnivore/2024-05/The Hist Reexamined - Tamriel Rebuilt\|The Hist Reexamined - Tamriel Rebuilt]]                                                                                       | May 18, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/2024 Morrowind May Modathon - Nexus Forum Announcement\|2024 Morrowind May Modathon - Nexus Forum Announcement]]                                                     | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-05/Cultures of Argonia\|Cultures of Argonia]]                                                                                                                           | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)]]                                               | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-05/Morrowind-Generic Dialogue- Argonian - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Generic Dialogue- Argonian - The Unofficial Elder Scrolls Pages (UESP)]] | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/Morrowind-Mysticism (book) - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Mysticism (book) - The Unofficial Elder Scrolls Pages (UESP)]]                     | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/Morrowind-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Peakstar - The Unofficial Elder Scrolls Pages (UESP)]]                                     | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/Morrowind-Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)]]                   | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-05/The Hist Reexamined - Tamriel Rebuilt\|The Hist Reexamined - Tamriel Rebuilt]]                                                                                       | May 20, 2024  |
 
 { .block-language-dataview}
 
