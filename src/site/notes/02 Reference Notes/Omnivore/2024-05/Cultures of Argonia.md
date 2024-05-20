@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-reference-notes/omnivore/2024-05/cultures-of-argonia/","title":"Cultures of Argonia\n","metatags":{"description":"Notes on Tamriel Rebuilt and Project Tamriel&#39;s development of Black Marsh","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["MW-May-Modathon-2024"]}
+{"dg-publish":true,"permalink":"/02-reference-notes/omnivore/2024-05/cultures-of-argonia/","title":"Cultures of Argonia\n","metatags":{"description":"Notes on Tamriel Rebuilt and Project Tamriel's development of Black Marsh","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["MW-May-Modathon-2024"]}
 ---
 
 
