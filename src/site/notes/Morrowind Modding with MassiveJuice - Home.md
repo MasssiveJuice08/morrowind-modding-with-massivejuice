@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/morrowind-modding-with-massive-juice-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/morrowind-modding-with-massive-juice-home/","metatags":{"description":"Morrowind Modding with MassiveJuice","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["gardenEntry"]}
 ---
+
 
 ## Welcome! 
 
