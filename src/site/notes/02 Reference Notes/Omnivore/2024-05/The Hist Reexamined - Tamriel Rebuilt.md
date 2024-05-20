@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-reference-notes/omnivore/2024-05/the-hist-reexamined-tamriel-rebuilt/","title":"The Hist Reexamined | Tamriel Rebuilt","tags":["MW-May-Modathon-2024"]}
+{"dg-publish":true,"permalink":"/02-reference-notes/omnivore/2024-05/the-hist-reexamined-tamriel-rebuilt/","title":"The Hist Reexamined | Tamriel Rebuilt\n","metatags":{"description":"","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["MW-May-Modathon-2024"]}
 ---
 
 
