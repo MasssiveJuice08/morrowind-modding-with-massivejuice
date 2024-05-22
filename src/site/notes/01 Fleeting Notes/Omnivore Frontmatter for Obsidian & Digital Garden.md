@@ -1,16 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/01-fleeting-notes/omnivore-frontmatter-for-obsidian-and-digital-garden/","tags":["My-Website"]}
+{"dg-publish":true,"permalink":"/01-fleeting-notes/omnivore-frontmatter-for-obsidian-and-digital-garden/","metatags":{"description":"How I publish Onnivore article highlights from Obsidian to my Digital Garden","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["My-Website"]}
 ---
 
 ## Publishing Omnivore notes from Obsidian to Digital Garden
 
+[![Omnivore.app Logo|right wsmall](https://i.imgur.com/0YszZiM.png)](https://omnivore.app/)
 
+The challenge I have encountered with publishing my notes synced from Omnivore is that if a note gets resynced, it overrides the frontmatter. Digital Garden relies on adding the frontmatter `dg-publish: true` to notes in order to publish them, and this gets removed during the resync. Thankfully there's a workaround – Omnivore's Obsidian plugin allows you to customise the frontmatter template for synced articles using the [Mustache](https://mustache.github.io/mustache.5.html) language, so I added the following lines to the template:
 
-### About
+```
+dg-publish: true
+dg-metatags:
+ description: "{{{description}}}"
+ "og:image": "https://i.imgur.com/LmCg5HX.png"
+```
 
-I use [Omnivore](https://omnivore.app/) to save articles and documents while researching a topic. It allows me to tag ('label') them, highlight passages and add notes to my highlights. I'm a pretty forgetful person and with ADHD my brain is working like, what, 512mb of RAM anyway? Citing my sources 
+As well as `dg-publish`, I also added `dg-metatags` which help with SEO and populate links to the relevant page with a short description. In this case, the `{{{description}}}` Mustache tag tells Obsidian to use the description of the synced article from Omnivore.
 
-The challenge I have encountered with publishing my  notes is that if a note gets resynced, it overrides the frontmatter. Digital Garden 
+My full frontmatter template is below:
 
 ```
 id: {{{id}}}
