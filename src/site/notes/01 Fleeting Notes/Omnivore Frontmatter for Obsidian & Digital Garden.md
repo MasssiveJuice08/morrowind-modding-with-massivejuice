@@ -6,7 +6,7 @@
 
 [![Omnivore.app Logo|right wsmall](https://i.imgur.com/0YszZiM.png)](https://omnivore.app/)
 
-The challenge I have encountered with publishing my notes synced from Omnivore is that if a note gets resynced, it overrides the frontmatter. Digital Garden relies on adding the frontmatter `dg-publish: true` to notes in order to publish them, and this gets removed during the resync. Thankfully there's a workaround – Omnivore's Obsidian plugin allows you to customise the frontmatter template for synced articles using the [Mustache](https://mustache.github.io/mustache.5.html) language, so I added the following lines to the template:
+The challenge I have encountered with publishing my notes synced from [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore]] is that if a note gets resynced, it overrides the frontmatter. Digital Garden relies on adding the frontmatter `dg-publish: true` to notes in order to publish them, and this gets removed during the resync. Thankfully there's a workaround – Omnivore's Obsidian plugin allows you to customise the frontmatter template for synced articles using the [Mustache](https://mustache.github.io/mustache.5.html) language, so I added the following lines to the template:
 
 ```
 dg-publish: true
