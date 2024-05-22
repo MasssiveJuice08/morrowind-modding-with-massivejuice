@@ -5,6 +5,8 @@
 
 ## About
 
+[![Omnivore.app Logo|right wsmall](https://i.imgur.com/0YszZiM.png)](https://omnivore.app/)
+
 Some articles saved in Omnivore do not render correctly in Obsidian. For example, the article [[02 Reference Notes/Omnivore Manual Entry/2024-03/Abbreviations — Web Accessibility Guidance project — NZ Government\|Abbreviations — Web Accessibility Guidance project — NZ Government]] contains `<abbr>` HTML tags surrounded by `<code> </code>` tags so that it does not render the abbreviation, but Omnivore is not translating this to Markdown style \``code`\` surrounded by backticks. This causes the article highlights to render incorrectly in reading mode on Obsidian, and to break the associated web page on [my digital garden](https://morrowind-modding-with-massivejuice.vercel.app/).
 
 As an alternative, I have added the `#omnivore-bug` label to problematic articles and in Omnivore's Obsidian plugin have added the filter `-label:omnivore-bug` so that those articles are not synced to Obsidian. Instead, I place the articles in this folder so I can still reference these sources within my digital garden.
