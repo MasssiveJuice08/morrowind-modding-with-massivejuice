@@ -15,7 +15,7 @@
 { #eab58769}
 
 
-See: [[01 Fleeting Notes/Temporary solution to fix tables\|Temporary solution to fix tables]]
+See: [[Temporary solution to fix tables\|Temporary solution to fix tables]]
 
 Text alignment can be adjusted, but need to investigate adjusting text size with HTML tags.
 
