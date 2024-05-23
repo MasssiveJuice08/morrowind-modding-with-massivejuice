@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/","tags":["MOC"]}
+{"dg-publish":true,"permalink":"/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/","metatags":{"description":"My personal notes on contributing to the Morrowind Modding Wiki","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["MMW","MOC"]}
 ---
 
 
@@ -24,3 +24,71 @@ Content is authored in [Obsidian.md](https://obsidian.md/) and published online 
 - MelchiorDahrk
 - GrumblingVomit
 - Zackhasacat
+
+## My own notes on the wiki:
+
+During development I have been taking my own notes (helped greatly by [Omnivore.app](https://omnivore.app/). I have published these here to my site for easier sharing
+
+### Fleeting Notes
+
+Brief notes capturing an idea
+
+| Note Title                                                                                                          | Last Modified  |
+| ------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [[01 Fleeting Notes/'kbd' HTML Element in Markdown\|'kbd' HTML Element in Markdown]]                             | May 23, 2024   |
+| [[01 Fleeting Notes/'Report a Problem' Button for MMW\|'Report a Problem' Button for MMW]]                       | May 23, 2024   |
+| [[01 Fleeting Notes/Adding TES3 Concept Art to MMW\|Adding TES3 Concept Art to MMW]]                             | May 23, 2024   |
+| [[01 Fleeting Notes/Alexey Rudikov\|Alexey Rudikov]]                                                             | May 23, 2024   |
+| [[01 Fleeting Notes/Font Squirrel\|Font Squirrel]]                                                               | May 23, 2024   |
+| [[01 Fleeting Notes/Missing Custom Download Link Styling for MMW\|Missing Custom Download Link Styling for MMW]] | May 23, 2024   |
+| [[01 Fleeting Notes/Morrowind Screens Redone\|Morrowind Screens Redone]]                                         | May 23, 2024   |
+| [[01 Fleeting Notes/Naming images and alt text for SEO\|Naming images and alt text for SEO]]                     | May 23, 2024   |
+| [[01 Fleeting Notes/Quartz Table CSS Styling\|Quartz Table CSS Styling]]                                         | May 23, 2024   |
+| [[01 Fleeting Notes/Website Analytics\|Website Analytics]]                                                       | March 22, 2024 |
+
+{ .block-language-dataview}
+
+### Omnivore Notes:
+
+Highlights of articles and forum posts saved with Omnivore. Many but not all contain my own annotations.
+
+| Note Title                                                                                                                                                                                                                                            | Last Modified |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[02 Reference Notes/Omnivore Manual Entry/2024-03/Abbreviations — Web Accessibility Guidance project — NZ Government\|Abbreviations — Web Accessibility Guidance project — NZ Government]]                                                        | May 21, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/border-image - CSS- Cascading Style Sheets - MDN\|border-image - CSS- Cascading Style Sheets - MDN]]                                                                                                         | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/Charts Documentation - Charts Plugin\|Charts Documentation - Charts Plugin]]                                                                                                                                 | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/Create and Use Font Awesome Custom Icons for Your Website\|Create and Use Font Awesome Custom Icons for Your Website]]                                                                                       | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/Creating a docs site with Bulma Clean Theme - Bulma Clean Theme\|Creating a docs site with Bulma Clean Theme - Bulma Clean Theme]]                                                                           | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/Decap CMS - Open-Source Content Management System\|Decap CMS - Open-Source Content Management System]]                                                                                                       | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/Designing the Perfect Hyperlink - The Ultimate How-To\|Designing the Perfect Hyperlink - The Ultimate How-To]]                                                                                               | May 20, 2024  |
+| [[02 Reference Notes/Omnivore Manual Entry/2024-03/Embedding YouTube Videos in Obsidian Digital Garden\|Embedding YouTube Videos in Obsidian Digital Garden]]                                                                                      | May 21, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/find-unlinked-files-README.md at main · Vinzent03-find-unlinked-files · GitHub\|find-unlinked-files-README.md at main · Vinzent03-find-unlinked-files · GitHub]]                                             | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/Folder Styles - SlRvb's Documentation - Obsidian Publish\|Folder Styles - SlRvb's Documentation - Obsidian Publish]]                                                                                         | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/Google Search Console\|Google Search Console]]                                                                                                                                                               | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/How to use @font-face in CSS - CSS-Tricks - CSS-Tricks\|How to use @font-face in CSS - CSS-Tricks - CSS-Tricks]]                                                                                             | May 20, 2024  |
+| [[02 Reference Notes/Omnivore Manual Entry/2024-03/html - What is the benefit to using -acronym- and -abbr-- - Stack Overflow\|html - What is the benefit to using -acronym- and -abbr-- - Stack Overflow]]                                        | May 21, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/HTML Favicon\|HTML Favicon]]                                                                                                                                                                                 | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/HTML Quotation Elements\|HTML Quotation Elements]]                                                                                                                                                           | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/HTML Responsive Web Design\|HTML Responsive Web Design]]                                                                                                                                                     | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/Local deployment · oleeskild-obsidian-digital-garden · Discussion #160 · GitHub.md\|Local deployment · oleeskild-obsidian-digital-garden · Discussion #160 · GitHub]]                                           | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/Obsidian CSS References\|Obsidian CSS References]]                                                                                                                                                           | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/Obsidian Grid Callouts · joschua.io\|Obsidian Grid Callouts · joschua.io]]                                                                                                                                   | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/obsidian_supercharged_links-README.md at master · mdelobelle-obsidian_supercharged_links · GitHub\|obsidian_supercharged_links-README.md at master · mdelobelle-obsidian_supercharged_links · GitHub]]       | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/obsidian-copy-block-link-README.md at main · mgmeyers-obsidian-copy-block-link · GitHub\|obsidian-copy-block-link-README.md at main · mgmeyers-obsidian-copy-block-link · GitHub]]                           | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/obsidian-leaflet-README.md at main · javalent-obsidian-leaflet · GitHub\|obsidian-leaflet-README.md at main · javalent-obsidian-leaflet · GitHub]]                                                           | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/obsidian-outliner-README.md at main · vslinko-obsidian-outliner · GitHub\|obsidian-outliner-README.md at main · vslinko-obsidian-outliner · GitHub]]                                                         | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/obsidian-remote-README.md at main · sytone-obsidian-remote · GitHub\|obsidian-remote-README.md at main · sytone-obsidian-remote · GitHub]]                                                                   | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/obsidian-various-complements-plugin-README.md at main · tadashi-aikawa-obsidian-various-complemen...\|obsidian-various-complements-plugin-README.md at main · tadashi-aikawa-obsidian-various-complemen...]] | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/Organizing information with tables - GitHub Docs\|Organizing information with tables - GitHub Docs]]                                                                                                         | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/Practically Paperless with Obsidian, Episode 21- Tags in Theory and Tags in Practice (And Never t...\|Practically Paperless with Obsidian, Episode 21- Tags in Theory and Tags in Practice (And Never t...]] | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/Publish limitations - Obsidian Help\|Publish limitations - Obsidian Help]]                                                                                                                                   | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/quickadd-README.md at master · chhoumann-quickadd · GitHub\|quickadd-README.md at master · chhoumann-quickadd · GitHub]]                                                                                     | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/SMOOTH Image Zoom on Hover Effects with CSS\|SMOOTH Image Zoom on Hover Effects with CSS]]                                                                                                                   | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/tag-wrangler-README.md at master · pjeby-tag-wrangler · GitHub\|tag-wrangler-README.md at master · pjeby-tag-wrangler · GitHub]]                                                                             | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/The Most Underrated But Obvious Way To Improve A Website\|The Most Underrated But Obvious Way To Improve A Website]]                                                                                         | May 21, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/TrustedSec - Obsidian, Taming a Collective Consciousness\|TrustedSec - Obsidian, Taming a Collective Consciousness]]                                                                                         | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/UESPWiki - Copyright and Ownership\|UESPWiki - Copyright and Ownership]]                                                                                                                                     | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-04/Wikipedia-Did you know - Wikipedia\|Wikipedia-Did you know - Wikipedia]]                                                                                                                                     | May 21, 2024  |
+| [[02 Reference Notes/Omnivore/2024-03/zoottelkeeper-obsidian-plugin-README.md at master · akosbalasko-zoottelkeeper-obsidian-plugin · G...\|zoottelkeeper-obsidian-plugin-README.md at master · akosbalasko-zoottelkeeper-obsidian-plugin · G...]] | May 20, 2024  |
+
+{ .block-language-dataview}
