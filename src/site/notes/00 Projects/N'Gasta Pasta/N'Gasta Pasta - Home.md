@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/n-gasta-pasta/n-gasta-pasta-home/","tags":["MOC"]}
+{"dg-publish":true,"permalink":"/00-projects/n-gasta-pasta/n-gasta-pasta-home/","metatags":{"description":"N'Gasta Pasta - a Morrowind mod by MassiveJuice","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["MOC","NGasta-Pasta"]}
 ---
 
 ## N'Gasta Pasta
