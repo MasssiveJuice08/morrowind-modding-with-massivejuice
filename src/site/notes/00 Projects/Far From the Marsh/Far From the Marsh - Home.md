@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/far-from-the-marsh/far-from-the-marsh-home/","tags":["MW-May-Modathon-2024","MOC"]}
+{"dg-publish":true,"permalink":"/00-projects/far-from-the-marsh/far-from-the-marsh-home/","metatags":{"description":"Far From the Marsh a Morrowind mod by MassiveJuice","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["MW-May-Modathon-2024","MOC","Far-From-Home"]}
 ---
 
 ## Far From the Marsh
