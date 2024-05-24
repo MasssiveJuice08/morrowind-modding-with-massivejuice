@@ -6,7 +6,7 @@
 
 Quartz by default uses a very clean styling for its tables, which includes not using vertical pipes between table columns. This looks slick, but may not increase readability,
 
-I found someone else's Quartz table styling which includes a checker-styled pattern background, and rows get highlight when `on-hover` (not pictured).
+I found someone else's Quartz table styling which includes a checker-styled pattern background, and rows get highlighted when `on-hover` (not pictured).
 
 ![Fancy_checker-styled_tables_for_Quartz.png|center](/img/user/Assets/Fleeting/Fancy_checker-styled_tables_for_Quartz.png)
 
