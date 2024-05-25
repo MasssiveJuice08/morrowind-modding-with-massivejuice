@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/far-from-the-marsh/mw-may-modathon-2024-week-1-plot-outline/","tags":["MW-May-Modathon-2024"]}
+{"dg-publish":true,"permalink":"/00-projects/far-from-the-marsh/mw-may-modathon-2024-week-1-plot-outline/","tags":["MW-May-Modathon-2024","Far-From-the-Marsh"]}
 ---
 
 ## A Missing Student of Mysticism - Plot Outline:
