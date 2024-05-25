@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/far-from-the-marsh/far-from-the-marsh-home/","metatags":{"description":"Far From the Marsh a Morrowind mod by MassiveJuice","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["MW-May-Modathon-2024","MOC","Far-From-Home"]}
+{"dg-publish":true,"permalink":"/00-projects/far-from-the-marsh/far-from-the-marsh-home/","metatags":{"description":"Far From the Marsh a Morrowind mod by MassiveJuice","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["MW-May-Modathon-2024","MOC","Far-From-the-Marsh"]}
 ---
 
 ## Far From the Marsh
@@ -51,10 +51,10 @@ You can find ther cave west of Dagon Fel. Follow the road west and then north to
 | Note Title                                                                                                                                     | Last Modified |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Brainstorming\|MW May Modathon 2024 Week 1 - Brainstorming]]                 | May 14, 2024  |
-| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Dialogue\|MW May Modathon 2024 Week 1 - Dialogue]]                           | May 13, 2024  |
-| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal\|MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal]] | May 14, 2024  |
-| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Plot Outline\|MW May Modathon 2024 Week 1 - Plot Outline]]                   | May 14, 2024  |
-| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Timeline\|MW May Modathon 2024 Week 1 - Timeline]]                           | May 15, 2024  |
+| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Dialogue\|MW May Modathon 2024 Week 1 - Dialogue]]                           | May 25, 2024  |
+| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal\|MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal]] | May 25, 2024  |
+| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Plot Outline\|MW May Modathon 2024 Week 1 - Plot Outline]]                   | May 25, 2024  |
+| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Timeline\|MW May Modathon 2024 Week 1 - Timeline]]                           | May 25, 2024  |
 
 { .block-language-dataview}
 
@@ -226,6 +226,7 @@ Week one theme - **'Mysticism and Prophecy'**
 | [[02 Reference Notes/Omnivore/2024-04/Morrowind-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Peakstar - The Unofficial Elder Scrolls Pages (UESP)]]                                     | May 20, 2024  |
 | [[02 Reference Notes/Omnivore/2024-04/Morrowind-Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)]]                   | May 20, 2024  |
 | [[02 Reference Notes/Omnivore/2024-05/The Hist Reexamined - Tamriel Rebuilt\|The Hist Reexamined - Tamriel Rebuilt]]                                                                                       | May 20, 2024  |
+| [[02 Reference Notes/Omnivore/2024-05/UESP - Battlespire - 'Mysticism'\|UESP - Battlespire - 'Mysticism']]                                                                                                 | May 25, 2024  |
 
 { .block-language-dataview}
 
