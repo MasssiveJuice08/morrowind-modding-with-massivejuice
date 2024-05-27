@@ -8,19 +8,19 @@
 > 
 > | Callout  | Lucide Icon                      | TES3 Icon                   |
 > | -------- | -------------------------------- | --------------------------- |
-> | Note     | ![[Note-Callout_Lucide.png\|20x20]]     | ![[Note-Callout_MMW.jpg\|20x20]]   |
-> | Abstract | ![[Abstract-Callout_Lucide.png\|20x20]] |                             |
-> | Info     | ![[Info-Callout_Lucide.png\|20x20]]     |                             |
-> | Todo     | ![[Todo-Callout_Lucide.png\|20x20]]     |                             |
-> | Tip      | ![[Tip-Callout_Lucide.png\|20x20]]      |                             |
-> | Success  | ![[Success-Callout_Lucide.png\|20x20]]  |                             |
-> | Question | ![[Question-Callout_Lucide.png\|20x20]] |                             |
-> | Warning  | ![[Warning-Callout_Lucide.png\|20x20]]  |                             |
-> | Failure  | ![[Failure-Callout_Lucide.png\|20x20]]  |                             |
-> | Danger   | ![[Danger-Callout_Lucide.png\|20x20]]   | ![[Danger-Callout_MMW.jpg\|20x20]] |
-> | Bug      | ![[Bug-Callout_Lucide.png\|20x20]]      |                             |
-> | Example  | ![[Example-Callout_Lucide.png\|20x20]]  |                             |
-> | Quote    | ![[Quote-Callout_Lucide.png\|20x20]]    |                             |
+> | Note     | ![Note-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Note-Callout_Lucide.png)     | ![Note-Callout_MMW.jpg](/img/user/Assets/MMW%20Custom%20Icons/Note-Callout_MMW.jpg)   |
+> | Abstract | ![Abstract-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Abstract-Callout_Lucide.png) |                             |
+> | Info     | ![Info-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Info-Callout_Lucide.png)     |                             |
+> | Todo     | ![Todo-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Todo-Callout_Lucide.png)     |                             |
+> | Tip      | ![Tip-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Tip-Callout_Lucide.png)      |                             |
+> | Success  | ![Success-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Success-Callout_Lucide.png)  |                             |
+> | Question | ![Question-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Question-Callout_Lucide.png) |                             |
+> | Warning  | ![Warning-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Warning-Callout_Lucide.png)  |                             |
+> | Failure  | ![Failure-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Failure-Callout_Lucide.png)  |                             |
+> | Danger   | ![Danger-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Danger-Callout_Lucide.png)   | ![Danger-Callout_MMW.jpg](/img/user/Assets/MMW%20Custom%20Icons/Danger-Callout_MMW.jpg) |
+> | Bug      | ![Bug-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Bug-Callout_Lucide.png)      |                             |
+> | Example  | ![Example-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Example-Callout_Lucide.png)  |                             |
+> | Quote    | ![Quote-Callout_Lucide.png](/img/user/Assets/MMW%20Custom%20Icons/Quote-Callout_Lucide.png)    |                             |
 > 
 > [Lucide icons](https://lucide.dev/) used for Obsidian and Quartz callouts compared against similar-looking icons from Morrowind
 
