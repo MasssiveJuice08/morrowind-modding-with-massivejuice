@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-fleeting-notes/missing-custom-download-link-styling-for-mmw/","tags":["CSS","MMW-Style"]}
+{"dg-publish":true,"permalink":"/01-fleeting-notes/missing-custom-download-link-styling-for-mmw/","tags":["MMW-Style","MMW-Dev/CSS","Quartz/CSS"]}
 ---
 
 ## Issue
