@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/morrowind-modding-with-massive-juice-home/","metatags":{"description":"Morrowind Modding with MassiveJuice","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/morrowind-modding-with-massive-juice-home/","metatags":{"description":"Morrowind Modding with MassiveJuice","og:image":"https://i.imgur.com/LmCg5HX.png"},"pinned":true,"tags":["gardenEntry"]}
 ---
 
 
@@ -46,4 +46,8 @@ Rupert is my number one obsession. I'm his biggest fan. He is 'da boy', 'he who 
 
 ---
 
-![Homepage-Banner.png|banner-tall](/img/user/Assets/Homepage-Banner.png)
+> [!caption|sban]
+> 
+> ![Homepage-Banner.png|banner-tall](/img/user/Assets/Homepage-Banner.png)
+> 
+> _Secret of Vilmuhn_
