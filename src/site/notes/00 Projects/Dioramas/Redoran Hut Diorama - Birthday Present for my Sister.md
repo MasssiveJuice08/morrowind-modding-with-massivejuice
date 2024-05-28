@@ -44,6 +44,16 @@ I wanted to paint the sculptures myself so I'd asked Deloto for just the plain s
 > > ![Redoran-Hut-Primed.jpg](/img/user/Assets/Dioramas/Redoran-Hut-Primed.jpg)
 > > 
 > > The diorama primed with Citadel 'Wraithbone'
+> 
+> > [!caption|txt-s]
+> > ![Redoran-Hut-Unpainted.jpg](/img/user/Assets/Dioramas/Redoran-Hut-Unpainted.jpg)
+> > 
+> > First layer of Milliput applied for the landscape
+> 
+> > [!caption|txt-s]
+> > ![Redoran-Hut-Primed.jpg](/img/user/Assets/Dioramas/Redoran-Hut-Primed.jpg)
+> > 
+> > The diorama primed with Citadel 'Wraithbone'
 
 To get the colours right, I used Remiros' [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469) as the basis and assembled the texture images into a gallery to act as my [[01 Fleeting Notes/Ald-Ruhn Colour-Palette\|Ald-Ruhn Colour-Palette]].
 
