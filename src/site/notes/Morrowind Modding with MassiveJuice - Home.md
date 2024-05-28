@@ -24,8 +24,13 @@ I make Morrowind mods and one day I hope to actually finish one of them. You can
 > **[[00 Projects/N'Gasta Pasta/N'Gasta Pasta - Home\|N'Gasta Pasta]]**
 > [![N'Gasta-Pasta_Banner.webp|sban htiny ctr](/img/user/Assets/N'Gasta-Pasta/N'Gasta-Pasta_Banner.webp)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/n-gasta-pasta/n-gasta-pasta-home/)
 > 
+> **[[00 Projects/Dioramas/Redoran Hut Diorama - Birthday Present for my Sister\|Dioramas]]**
+> ![Redoran-Hut_Bday_Front.jpg|sban htiny ctr](/img/user/Assets/Dioramas/Redoran-Hut_Bday_Front.jpg)
+
+> [!cards|1]
 > **[[00 Projects/Morrowind Modding Wiki/Morrowind Modding Wiki - Home\|Morrowind Modding Wiki]]**
 > [![MMW_Logo.png|sban htiny ctr p+bc](/img/user/Assets/Morrowind_Modding_Wiki/MMW_Logo.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/)
+
 
 
 ## Who is Rupert?
