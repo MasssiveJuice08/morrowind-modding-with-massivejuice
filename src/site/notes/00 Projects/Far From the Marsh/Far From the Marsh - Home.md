@@ -43,19 +43,39 @@ A Mages Guild member studying hidden patterns of Mysticism and prophecy has gone
 You can find ther cave west of Dagon Fel. Follow the road west and then north to a river crossing – the cave entrance is on the left.
 
 <br>
+<br>
+<br>
 
 ---
 
-### Project Notes - Contents:
+### Project Notes - Contents
 
-| Note Title                                                                                                                                     | Last Modified |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Brainstorming\|MW May Modathon 2024 Week 1 - Brainstorming]]                 | May 14, 2024  |
-| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Dialogue\|MW May Modathon 2024 Week 1 - Dialogue]]                           | May 25, 2024  |
-| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal\|MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal]] | May 25, 2024  |
-| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Plot Outline\|MW May Modathon 2024 Week 1 - Plot Outline]]                   | May 25, 2024  |
-| [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Timeline\|MW May Modathon 2024 Week 1 - Timeline]]                           | May 25, 2024  |
+> [!example|bg-gray c-orange]+ Project Notes
+> 
+>  | Note Title                                                                                                                                     | Last Modified |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+> | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Brainstorming\|MW May Modathon 2024 Week 1 - Brainstorming]]                 | May 28, 2024  |
+> | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Dialogue\|MW May Modathon 2024 Week 1 - Dialogue]]                           | May 28, 2024  |
+> | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal\|MW May Modathon 2024 Week 1 - Jeelish-Tar's Journal]] | May 28, 2024  |
+> | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Plot Outline\|MW May Modathon 2024 Week 1 - Plot Outline]]                   | May 28, 2024  |
+> | [[00 Projects/Far From the Marsh/MW May Modathon 2024 Week 1 - Timeline\|MW May Modathon 2024 Week 1 - Timeline]]                           | May 28, 2024  |
+> 
+{ .block-language-dataview}
 
+> [!example|bg-gray c-orange]+ Reference Notes
+> 
+>  | Note Title                                                                                                                                                                                                    | Last Modified |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+> | [[02 Reference Notes/Omnivore/2024-04/2024 Morrowind May Modathon - Nexus Forum Announcement\|2024 Morrowind May Modathon - Nexus Forum Announcement]]                                                     | May 28, 2024  |
+> | [[02 Reference Notes/Omnivore/2024-05/Cultures of Argonia\|Cultures of Argonia]]                                                                                                                           | May 28, 2024  |
+> | [[02 Reference Notes/Omnivore/2024-04/Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)]]                                               | May 28, 2024  |
+> | [[02 Reference Notes/Omnivore/2024-05/Morrowind-Generic Dialogue- Argonian - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Generic Dialogue- Argonian - The Unofficial Elder Scrolls Pages (UESP)]] | May 28, 2024  |
+> | [[02 Reference Notes/Omnivore/2024-04/Morrowind-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Peakstar - The Unofficial Elder Scrolls Pages (UESP)]]                                     | May 28, 2024  |
+> | [[02 Reference Notes/Omnivore/2024-04/Morrowind-Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)]]                   | May 28, 2024  |
+> | [[02 Reference Notes/Omnivore/2024-05/The Hist Reexamined - Tamriel Rebuilt\|The Hist Reexamined - Tamriel Rebuilt]]                                                                                       | May 28, 2024  |
+> | [[02 Reference Notes/Omnivore/2024-05/UESP - Battlespire - 'Mysticism'\|UESP - Battlespire - 'Mysticism']]                                                                                                 | May 28, 2024  |
+> | [[02 Reference Notes/Omnivore/2024-04/UESP - Morrowind-'Mysticism' (book)\|UESP - Morrowind-'Mysticism' (book)]]                                                                                           | May 28, 2024  |
+> 
 { .block-language-dataview}
 
 ### Creative Process - Quest Writing:
@@ -214,23 +234,9 @@ Week one theme - **'Mysticism and Prophecy'**
 
 ---
 
-### Reference Notes - Contents:
-
-| Note Title                                                                                                                                                                                                    | Last Modified |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[02 Reference Notes/Omnivore/2024-04/2024 Morrowind May Modathon - Nexus Forum Announcement\|2024 Morrowind May Modathon - Nexus Forum Announcement]]                                                     | May 20, 2024  |
-| [[02 Reference Notes/Omnivore/2024-05/Cultures of Argonia\|Cultures of Argonia]]                                                                                                                           | May 20, 2024  |
-| [[02 Reference Notes/Omnivore/2024-04/Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Lore-Peakstar - The Unofficial Elder Scrolls Pages (UESP)]]                                               | May 20, 2024  |
-| [[02 Reference Notes/Omnivore/2024-05/Morrowind-Generic Dialogue- Argonian - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Generic Dialogue- Argonian - The Unofficial Elder Scrolls Pages (UESP)]] | May 20, 2024  |
-| [[02 Reference Notes/Omnivore/2024-04/Morrowind-Peakstar - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Peakstar - The Unofficial Elder Scrolls Pages (UESP)]]                                     | May 20, 2024  |
-| [[02 Reference Notes/Omnivore/2024-04/Morrowind-Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)\|Morrowind-Progress of Truth - The Unofficial Elder Scrolls Pages (UESP)]]                   | May 20, 2024  |
-| [[02 Reference Notes/Omnivore/2024-05/The Hist Reexamined - Tamriel Rebuilt\|The Hist Reexamined - Tamriel Rebuilt]]                                                                                       | May 20, 2024  |
-| [[02 Reference Notes/Omnivore/2024-05/UESP - Battlespire - 'Mysticism'\|UESP - Battlespire - 'Mysticism']]                                                                                                 | May 25, 2024  |
-| [[02 Reference Notes/Omnivore/2024-04/UESP - Morrowind-'Mysticism' (book)\|UESP - Morrowind-'Mysticism' (book)]]                                                                                           | May 25, 2024  |
-
-{ .block-language-dataview}
-
 ### To-Do
 - [ ] Jeelish-Tar's journal starts at Sun's Dawn month but talks of New Year; change month to Morning Star.
+- [ ] Finish cave
+- [ ] Finish quest dialogue and add journal entries
 
 [^1]: I say 'its' ideas because authorship and plagiarism with AI language models is a contentious subject. Despite how thorough my creative prompts and feedback are, what ChatGPT outputs might still be a facsimile of someone else's work. Therefore, the final stage of heavily editing ChatGPT's work _without_ its input is a vital step to ensure that the final product is not unwitting plagiarism
