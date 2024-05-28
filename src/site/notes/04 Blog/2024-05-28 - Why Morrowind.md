@@ -2,19 +2,7 @@
 {"dg-publish":true,"permalink":"/04-blog/2024-05-28-why-morrowind/","metatags":{"description":"","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["blog"]}
 ---
 
-> [!info|clean no-t txt-c]
->
-> <pre class="dataview dataview-error">Evaluation Error: SyntaxError: Unexpected token '&gt;'
-    at DataviewInlineApi.eval (plugin:dataview:18869:21)
-    at evalInContext (plugin:dataview:18870:7)
-    at asyncEvalInContext (plugin:dataview:18880:32)
-    at DataviewJSRenderer.render (plugin:dataview:18906:19)
-    at DataviewJSRenderer.onload (plugin:dataview:18448:14)
-    at e.load (http://localhost/app.js:1:1167961)
-    at DataviewApi.executeJs (plugin:dataview:19449:18)
-    at DataviewCompiler.eval (plugin:digitalgarden:10760:23)
-    at Generator.next (&lt;anonymous&gt;)
-    at eval (plugin:digitalgarden:90:61)</pre>
+<p><span>(none) ← 2024-05-28 - Why Morrowind → (none)</span></p>
 
 ## On Discovering Morrowind
 
