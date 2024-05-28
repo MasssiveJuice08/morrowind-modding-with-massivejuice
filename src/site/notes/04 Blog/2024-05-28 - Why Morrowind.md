@@ -2,7 +2,10 @@
 {"dg-publish":true,"permalink":"/04-blog/2024-05-28-why-morrowind/","metatags":{"description":"","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["blog"]}
 ---
 
+**Navigation:**
 <p><span>(none) ← 2024-05-28 - Why Morrowind → (none)</span></p>
+
+---
 
 ## On Discovering Morrowind
 
