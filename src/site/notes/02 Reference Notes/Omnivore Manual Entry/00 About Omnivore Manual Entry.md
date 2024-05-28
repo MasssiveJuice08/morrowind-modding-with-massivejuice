@@ -31,8 +31,8 @@ These may also need to be manually entered.
 
 | Note Title                                                                                                                                                                                                     | Last Modified |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[02 Reference Notes/Omnivore Manual Entry/2024-03/Abbreviations — Web Accessibility Guidance project — NZ Government\|Abbreviations — Web Accessibility Guidance project — NZ Government]]                 | May 21, 2024  |
-| [[02 Reference Notes/Omnivore Manual Entry/2024-03/Embedding YouTube Videos in Obsidian Digital Garden\|Embedding YouTube Videos in Obsidian Digital Garden]]                                               | May 21, 2024  |
-| [[02 Reference Notes/Omnivore Manual Entry/2024-03/html - What is the benefit to using -acronym- and -abbr-- - Stack Overflow\|html - What is the benefit to using -acronym- and -abbr-- - Stack Overflow]] | May 21, 2024  |
+| [[02 Reference Notes/Omnivore Manual Entry/2024-03/Abbreviations — Web Accessibility Guidance project — NZ Government\|Abbreviations — Web Accessibility Guidance project — NZ Government]]                 | May 28, 2024  |
+| [[02 Reference Notes/Omnivore Manual Entry/2024-03/Embedding YouTube Videos in Obsidian Digital Garden\|Embedding YouTube Videos in Obsidian Digital Garden]]                                               | May 28, 2024  |
+| [[02 Reference Notes/Omnivore Manual Entry/2024-03/html - What is the benefit to using -acronym- and -abbr-- - Stack Overflow\|html - What is the benefit to using -acronym- and -abbr-- - Stack Overflow]] | May 28, 2024  |
 
 { .block-language-dataview}
