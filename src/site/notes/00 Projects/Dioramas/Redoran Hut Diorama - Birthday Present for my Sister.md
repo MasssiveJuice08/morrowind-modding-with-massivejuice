@@ -35,15 +35,12 @@ This was my first diorama. Previously I had only worked with scale miniatures, p
 I wanted to paint the sculptures myself so I'd asked Deloto for just the plain sculptures. Using a large round Games Workshop base, I started by sculpting the landscape using Milliput and gluing the hut, urns, scathecraw and trama root down. I applied some fine gravel and sand with PVA, then primed it all with Citadel 'Wraithbone' spray.
 
 > [!column|2 no-t]
-> 
 > > [!caption|txt-s]
-> > 
 > > ![Redoran-Hut-Unpainted.jpg](/img/user/Assets/Dioramas/Redoran-Hut-Unpainted.jpg)
 > > 
 > > First layer of Milliput applied for the landscape
 > 
 > > [!caption|txt-s]
-> > 
 > > ![Redoran-Hut-Primed.jpg](/img/user/Assets/Dioramas/Redoran-Hut-Primed.jpg)
 > > 
 > > The diorama primed with Citadel 'Wraithbone'
