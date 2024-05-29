@@ -11,7 +11,13 @@
 
 
 
-> [!abstract|clean no-t no-i]
+> [!abstract|clean no-t no-i ws-sm]
+>
+> > [!caption|left txt-s wm-sm]
+> > 
+> > ![Vivec-City-Cocept-Art.jpg|profile-medium|150x150](/img/user/Assets/Morrowind-Concept-Art/Vivec-City-Cocept-Art.jpg)
+> > 
+> > 'Vivec City' concept art by [Michael Kirkbride](https://en.uesp.net/wiki/General:Michael_Kirkbride) 
 >
 > My older sister and I discovered Morrowind back in 2005 when my friend bought me a copy for my tenth birthday (one of the Big Bytes collections games). I was a bit too young and lacked the patience and skill to understand the game's mechanics, so I mostly ran around as a level one khajiit, getting shanked by shady mudcrabs.  
 > 
