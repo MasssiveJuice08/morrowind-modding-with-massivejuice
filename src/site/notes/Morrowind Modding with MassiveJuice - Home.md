@@ -9,7 +9,7 @@
 
 Kia ora, I'm **MassiveJuice**!
 
-I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process.
+I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process. I also host my blog here, [[03 Blog/MassiveJuice's Morrowind Modding Blog\|MassiveJuice's Morrowind Modding Blog]]
 
 ## Projects
 
@@ -27,11 +27,18 @@ I make Morrowind mods and one day I hope to actually finish one of them. You can
 > **[[00 Projects/Dioramas/Redoran Hut Diorama - Birthday Present for my Sister\|Dioramas]]**
 > ![Redoran-Hut_Bday_Front.jpg|sban htiny ctr](/img/user/Assets/Dioramas/Redoran-Hut_Bday_Front.jpg)
 
-> [!cards|1]
+> [!cards|1 ]
 > **[[00 Projects/Morrowind Modding Wiki/Morrowind Modding Wiki - Home\|Morrowind Modding Wiki]]**
 > [![MMW_Logo.png|sban htiny ctr p+bc](/img/user/Assets/Morrowind_Modding_Wiki/MMW_Logo.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/)
 
+### [[03 Blog/MassiveJuice's Morrowind Modding Blog\|Recent Blog Posts]]
 
+> [!cards|1 dataview] 
+>  | Image                                                   | Column Name                                                   | Modified     |
+> | ------------------------------------------------------- | ------------------------------------------------------------- | ------------ |
+> | ![\|sban cover hmicro](https://i.imgur.com/UpauByP.jpg) | **[[03 Blog/2024-05-28 - Why Morrowind\|Why Morrowind?]]** | May 28, 2024 |
+> 
+{ .block-language-dataview}
 
 ## Who is Rupert?
 
