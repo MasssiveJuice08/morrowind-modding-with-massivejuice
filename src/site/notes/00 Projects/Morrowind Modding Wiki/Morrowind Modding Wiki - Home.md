@@ -35,18 +35,18 @@ Brief notes capturing an idea
 
 | Note Title                                                                                                                          | Last Modified |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [[01 Fleeting Notes/'kbd' HTML Element in Markdown\|'kbd' HTML Element in Markdown]]                                             | May 23, 2024  |
-| [[01 Fleeting Notes/'Report a Problem' Button for MMW\|'Report a Problem' Button for MMW]]                                       | May 28, 2024  |
-| [[01 Fleeting Notes/Adding TES3 Concept Art to MMW\|Adding TES3 Concept Art to MMW]]                                             | May 23, 2024  |
-| [[01 Fleeting Notes/Alexey Rudikov\|Alexey Rudikov]]                                                                             | May 23, 2024  |
-| [[01 Fleeting Notes/Font Squirrel\|Font Squirrel]]                                                                               | May 23, 2024  |
-| [[01 Fleeting Notes/How to alter Quartz base scss safely\|How to alter Quartz base scss safely]]                                 | May 27, 2024  |
-| [[01 Fleeting Notes/Missing Custom Download Link Styling for MMW\|Missing Custom Download Link Styling for MMW]]                 | May 27, 2024  |
-| [[01 Fleeting Notes/Morrowind Screens Redone\|Morrowind Screens Redone]]                                                         | May 23, 2024  |
-| [[01 Fleeting Notes/Naming images and alt text for SEO\|Naming images and alt text for SEO]]                                     | May 24, 2024  |
-| [[01 Fleeting Notes/Properly naming folders and files for Quartz and SEO\|Properly naming folders and files for Quartz and SEO]] | May 27, 2024  |
-| [[01 Fleeting Notes/Quartz Table CSS Styling\|Quartz Table CSS Styling]]                                                         | May 24, 2024  |
-| [[01 Fleeting Notes/Tinybird Website Analytics\|Tinybird Website Analytics]]                                                     | May 24, 2024  |
+| [[01 Fleeting Notes/'kbd' HTML Element in Markdown\|'kbd' HTML Element in Markdown]]                                             | May 29, 2024  |
+| [[01 Fleeting Notes/'Report a Problem' Button for MMW\|'Report a Problem' Button for MMW]]                                       | May 29, 2024  |
+| [[01 Fleeting Notes/Adding TES3 Concept Art to MMW\|Adding TES3 Concept Art to MMW]]                                             | May 29, 2024  |
+| [[01 Fleeting Notes/Alexey Rudikov\|Alexey Rudikov]]                                                                             | May 29, 2024  |
+| [[01 Fleeting Notes/Font Squirrel\|Font Squirrel]]                                                                               | May 29, 2024  |
+| [[01 Fleeting Notes/How to alter Quartz base scss safely\|How to alter Quartz base scss safely]]                                 | May 29, 2024  |
+| [[01 Fleeting Notes/Missing Custom Download Link Styling for MMW\|Missing Custom Download Link Styling for MMW]]                 | May 29, 2024  |
+| [[01 Fleeting Notes/Morrowind Screens Redone\|Morrowind Screens Redone]]                                                         | May 29, 2024  |
+| [[01 Fleeting Notes/Naming images and alt text for SEO\|Naming images and alt text for SEO]]                                     | May 29, 2024  |
+| [[01 Fleeting Notes/Properly naming folders and files for Quartz and SEO\|Properly naming folders and files for Quartz and SEO]] | May 29, 2024  |
+| [[01 Fleeting Notes/Quartz Table CSS Styling\|Quartz Table CSS Styling]]                                                         | May 29, 2024  |
+| [[01 Fleeting Notes/Tinybird Website Analytics\|Tinybird Website Analytics]]                                                     | May 29, 2024  |
 
 { .block-language-dataview}
 
