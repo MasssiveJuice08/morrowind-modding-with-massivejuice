@@ -48,21 +48,21 @@ These are a series of textures used on the landscape, buildings and flora around
 
 > [!column|2 no-t flex] Flora Textures
 > > [!caption|center txt-s]
-> > ![Flora_RM_scathecraw_02_mesh.jpg](/img/user/Assets/Fleeting/Ald-Ruhn%20Colour-Palette/Flora_RM_scathecraw_02_mesh.jpg)
+> > ![Flora_RM_scathecraw_02_mesh.jpg|wmed](/img/user/Assets/Fleeting/Ald-Ruhn%20Colour-Palette/Flora_RM_scathecraw_02_mesh.jpg)
 > > **Scathecraw**
 > 
 > > [!caption|center txt-s]
-> > ![Tx_RM_scathecraw_01.png](/img/user/Assets/Fleeting/Ald-Ruhn%20Colour-Palette/Tx_RM_scathecraw_01.png)
-> > **Tx_RM_scathecraw_01**
-> 
-> > [!caption|center txt-s]
-> > ![tramaroot_01_mesh.jpg](/img/user/Assets/Fleeting/Ald-Ruhn%20Colour-Palette/tramaroot_01_mesh.jpg)
+> > ![tramaroot_01_mesh.jpg|wmed](/img/user/Assets/Fleeting/Ald-Ruhn%20Colour-Palette/tramaroot_01_mesh.jpg)
 > > **Tramaroot**
 > 
 > > [!caption|center txt-s]
-> > ![tx_tramaroot_01.png](/img/user/Assets/Fleeting/Ald-Ruhn%20Colour-Palette/tx_tramaroot_01.png)
+> > ![tx_tramaroot_01.png|wmed](/img/user/Assets/Fleeting/Ald-Ruhn%20Colour-Palette/tx_tramaroot_01.png)
 > > **Roots**
 > 
 > > [!caption|center txt-s]
-> > ![tx_tramaroot_thorn_01.png](/img/user/Assets/Fleeting/Ald-Ruhn%20Colour-Palette/tx_tramaroot_thorn_01.png)
+> > ![tx_tramaroot_thorn_01.png|wmed](/img/user/Assets/Fleeting/Ald-Ruhn%20Colour-Palette/tx_tramaroot_thorn_01.png)
 > > **Thorns**
+
+> [!caption|center txt-s wmed]
+> ![Tx_RM_scathecraw_01.png|wmed](/img/user/Assets/Fleeting/Ald-Ruhn%20Colour-Palette/Tx_RM_scathecraw_01.png)
+> **Tx_RM_scathecraw_01**
