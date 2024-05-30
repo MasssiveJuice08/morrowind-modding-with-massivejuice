@@ -29,7 +29,7 @@ I make Morrowind mods and one day I hope to actually finish one of them. You can
 
 > [!cards|1 ]
 > **[[00 Projects/Morrowind Modding Wiki/Morrowind Modding Wiki - Home\|Morrowind Modding Wiki]]**
-> [![MMW_Logo.png|sban htiny ctr p+bc](/img/user/Assets/Morrowind_Modding_Wiki/MMW_Logo.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/)
+> [![Morrowind Modding Wiki logo|sban htiny ctr](https://i.imgur.com/vyx7Hna.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/)
 
 ### [[03 Blog/MassiveJuice's Morrowind Modding Blog\|Recent Blog Posts]]
 
