@@ -9,29 +9,29 @@
 
 Kia ora, I'm **MassiveJuice**!
 
-I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process. I also host my blog here, [[03 Blog/MassiveJuice's Morrowind Modding Blog\|MassiveJuice's Morrowind Modding Blog]]
+I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process. I also host my blog here, [[03 Blog/00 MassiveJuice's Morrowind Modding Blog\|00 MassiveJuice's Morrowind Modding Blog]]
 
 ## Projects
 
 > [!cards|2]
 > **[[00 Projects/Far From the Marsh/Far From the Marsh - Home\|Far From the Marsh]]**
-> [![MJ_FFTM_v0-5_img_01.png|sban htiny ctr](/img/user/Assets/Far-From-The-Marsh/MJ_FFTM_v0-5_img_01.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/far-from-the-marsh/far-from-the-marsh-home/)
+> [![MJ_FFTM_v0-5_img_01.png|sban htiny ctr p+ct](/img/user/Assets/Far-From-The-Marsh/MJ_FFTM_v0-5_img_01.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/far-from-the-marsh/far-from-the-marsh-home/)
 > 
 > **[[00 Projects/Secret of Vilmuhn/Secret of Vilmuhn - Home\|Secret of Vilmuhn]]**
-> [![SOV_02-01-24_preview_12.png|sban htiny ctr](/img/user/Assets/Secret-of-Vilmuhn/SOV_02-01-24_preview_12.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/secret-of-vilmuhn/secret-of-vilmuhn-home/)
+> [![SOV_02-01-24_preview_12.png|sban htiny ctr p+cct](/img/user/Assets/Secret-of-Vilmuhn/SOV_02-01-24_preview_12.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/secret-of-vilmuhn/secret-of-vilmuhn-home/)
 
 > [!cards|2]
 > **[[00 Projects/N'Gasta Pasta/N'Gasta Pasta - Home\|N'Gasta Pasta]]**
-> [![N'Gasta-Pasta_Banner.webp|sban htiny ctr](/img/user/Assets/N'Gasta-Pasta/N'Gasta-Pasta_Banner.webp)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/n-gasta-pasta/n-gasta-pasta-home/)
+> [![N'Gasta-Pasta_Banner.webp|sban htiny ctr p+cct](/img/user/Assets/N'Gasta-Pasta/N'Gasta-Pasta_Banner.webp)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/n-gasta-pasta/n-gasta-pasta-home/)
 > 
-> **[[00 Projects/Dioramas/Redoran Hut Diorama - Birthday Present for my Sister\|Dioramas]]**
-> ![Redoran-Hut_Bday_Front.jpg|sban htiny ctr](/img/user/Assets/Dioramas/Redoran-Hut_Bday_Front.jpg)
+> **[[00 Projects/Dioramas/00 Morrowind-Themed Dioramas\|Morrowind-Themed Dioramas]]**
+> [![Redoran-Hut_Bday_Front.jpg|sban htiny ctr p+cct](/img/user/Assets/Dioramas/Redoran-Hut_Bday_Front.jpg)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/dioramas/00-morrowind-themed-dioramas/)
 
 > [!cards|1 ]
 > **[[00 Projects/Morrowind Modding Wiki/Morrowind Modding Wiki - Home\|Morrowind Modding Wiki]]**
-> [![MMW_Logo.png|sban htiny ctr p+bc](/img/user/Assets/Morrowind_Modding_Wiki/MMW_Logo.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/)
+> [![Morrowind Modding Wiki logo|sban htiny ctr](https://i.imgur.com/vyx7Hna.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/morrowind-modding-wiki/morrowind-modding-wiki-home/)
 
-### [[03 Blog/MassiveJuice's Morrowind Modding Blog\|Recent Blog Posts]]
+### [[03 Blog/00 MassiveJuice's Morrowind Modding Blog\|Recent Blog Posts]]
 
 > [!cards|1 dataview] 
 >  | Image                                                   | Column Name                                                   | Modified     |

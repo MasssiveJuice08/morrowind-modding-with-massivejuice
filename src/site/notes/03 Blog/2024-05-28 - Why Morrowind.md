@@ -12,11 +12,11 @@
 > [!info|clean no-t txt-c]
 >Tuesday, May 28, 2024
 
-> [!abstract|clean no-t no-i ws-sm]
+> [!abstract|clean no-t no-i]
 >
-> > [!caption|left txt-s wm-sm]
+> > [!caption|left txt-s ws-med]
 > > 
-> > ![Vivec-City-Cocept-Art.jpg|profile-medium|150x150](/img/user/Assets/Morrowind-Concept-Art/Vivec-City-Cocept-Art.jpg)
+> > ![Vivec-City-Cocept-Art.jpg|profile-medium wsmall hsmall](/img/user/Assets/Morrowind-Concept-Art/Vivec-City-Cocept-Art.jpg)
 > > 
 > > 'Vivec City' concept art by [Michael Kirkbride](https://en.uesp.net/wiki/General:Michael_Kirkbride) 
 >
