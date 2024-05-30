@@ -4,7 +4,7 @@
 
 ## About
 
-These are a series of textures used on the landscape, buildings and flora around [[Ald-Ruhn\|Ald-Ruhn]], the seat of #House-Redoran. Specifically, these are AI-upscaled versions from Remiros' [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469). I assembled this gallery as a reference while working on a [[00 Projects/Dioramas/Redoran Hut Diorama - Birthday Present for my Sister\|Redoran Hut Diorama]] for my sister.
+These are a series of textures used on the landscape, buildings and flora around [[Ald-Ruhn\|Ald-Ruhn]], the seat of #House-Redoran. Specifically, these are AI-upscaled versions from Remiros' [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469). I assembled this gallery as a reference while working on a [[00 Projects/Dioramas/Redoran Hut Diorama - a Gift for my Sister\|Redoran Hut Diorama]] for my sister.
 
 ### Landscape Textures:
 
