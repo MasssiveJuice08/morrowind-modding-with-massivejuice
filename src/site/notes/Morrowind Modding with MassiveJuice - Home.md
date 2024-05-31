@@ -9,7 +9,7 @@
 
 Kia ora, I'm **MassiveJuice**!
 
-I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process. I also host my blog here, [[03 Blog/00 MassiveJuice's Morrowind Modding Blog\|00 MassiveJuice's Morrowind Modding Blog]]
+I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process. I also host my blog here, [[03 Blog/00 MassiveJuice's Morrowind Modding Blog\|MassiveJuice's Morrowind Modding Blog]]
 
 ## Projects
 
