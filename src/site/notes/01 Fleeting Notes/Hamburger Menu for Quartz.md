@@ -4,9 +4,9 @@
 
 ## About
 
-As of writing (2024-05-31) the current version of [Quartz](https://github.com/jackyzha0/quartz) lacks a mobile hamburger menu. This make navigation on mobile reliant on the (admittedly good) search function and the placement of links by the creator of the given Quartz website. It's not ideal.
+As of writing (2024-05-31) the current version of [Quartz](https://github.com/jackyzha0/quartz) lacks a mobile hamburger menu. This makes navigation on mobile reliant on the (admittedly good) search function and the sensible placement of links by the creator of a given Quartz website. It's not ideal.
 
-Some Quartz users have implemented a hamburger menu on their own website, such as [Owlly Lab](https://www.mara-li.fr/) by Mara-Li ([Github Repo](https://github.com/Mara-Li/owlly-lab)). Mara-Li added a [pull request to merge the burger menu](https://github.com/jackyzha0/quartz/pull/754) into Quartz, but it has issues that require resolving first:
+Some Quartz users have implemented a hamburger menu on their own website, such as [Owlly Lab](https://www.mara-li.fr/) by Mara-Li ([Github Repo](https://github.com/Mara-Li/owlly-lab)). Mara-Li added a [pull request to merge the burger menu](https://github.com/jackyzha0/quartz/pull/754) into Quartz, but it has issues that require resolving first before it can be merged:
 - The burgerMenu layout requires a specific layout structure in a docstring in the layout.ts file in order to work.
 - The code requires cleaning as it has a lot of duplicate code.
 
