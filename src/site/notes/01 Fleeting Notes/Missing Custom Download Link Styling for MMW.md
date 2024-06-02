@@ -6,12 +6,12 @@
 
 The [[00 Projects/Morrowind Modding Wiki/Morrowind Modding Wiki - Home\|Morrowind Modding Wiki]] uses `![[embedded files]]` to add download links inside articles. For example, the wiki article ['Tutorial - Create and ESP Replacer Patch'](https://morrowind-modding.github.io/Guides/Patches/Tutorial---Create-an-ESP-Replacer-Patch) includes a download link to a zip file containing the ESP files to be used alongside the tutorial. In Obsidian's default theme these are styled somewhat like a download link (though not _perfect_ - it uses a note 📄 symbol instead of a ⬇️ download symbol). However, Quartz styles these like a standard blockquote. This makes it difficult for readers to determine if this is a downloadable file or not, unless they click it.
 
-> [!caption|right]
+### Default Quartz Styling for Transclusions
+
+> [!caption|wmed right]
 > 
 > ![MMW_missing-custom-download-style.jpg|wm-sm right](/img/user/Assets/Fleeting/MMW_missing-custom-download-style.jpg)
 > Quartz styles `![[embedded files]]` like blockquotes
-
-### Default Quartz Styling for Transclusions
 
 [Quartz](https://quartz.jzhao.xyz/) handles the styling of embedded files (termed 'transclusions' by Quartz) in different ways depending on the file extension type. This is handled by the [ObsidianFlavoredMarkdown](https://quartz.jzhao.xyz/plugins/ObsidianFlavoredMarkdown) Quartz plugin (`quartz/plugins/transformers/ofm.ts`). Some examples include:
 - Images (e.g., `.png`) are embedded in the web page
