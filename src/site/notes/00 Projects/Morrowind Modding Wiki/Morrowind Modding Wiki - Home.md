@@ -46,9 +46,9 @@ Brief notes capturing an idea
 | [[01 Fleeting Notes/Missing Custom Download Link Styling for MMW\|Missing Custom Download Link Styling for MMW]]                 | June 02, 2024 |
 | [[01 Fleeting Notes/Morrowind Screens Redone\|Morrowind Screens Redone]]                                                         | May 29, 2024  |
 | [[01 Fleeting Notes/Naming images and alt text for SEO\|Naming images and alt text for SEO]]                                     | May 29, 2024  |
-| [[01 Fleeting Notes/Properly naming folders and files for Quartz and SEO\|Properly naming folders and files for Quartz and SEO]] | May 29, 2024  |
-| [[01 Fleeting Notes/Quartz Table CSS Styling\|Quartz Table CSS Styling]]                                                         | May 29, 2024  |
-| [[01 Fleeting Notes/Tinybird Website Analytics\|Tinybird Website Analytics]]                                                     | May 29, 2024  |
+| [[01 Fleeting Notes/Properly naming folders and files for Quartz and SEO\|Properly naming folders and files for Quartz and SEO]] | June 02, 2024 |
+| [[01 Fleeting Notes/Quartz Table CSS Styling\|Quartz Table CSS Styling]]                                                         | June 02, 2024 |
+| [[01 Fleeting Notes/Tinybird Website Analytics\|Tinybird Website Analytics]]                                                     | June 02, 2024 |
 
 { .block-language-dataview}
 
