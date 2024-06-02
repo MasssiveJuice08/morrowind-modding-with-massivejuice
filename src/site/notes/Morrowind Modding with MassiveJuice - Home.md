@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/morrowind-modding-with-massive-juice-home/","title":"Home","metatags":["object Object"],"pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/morrowind-modding-with-massive-juice-home/","title":"Home","metatags":{"description":"Morrowind Modding with MassiveJuice","og:image":"https://i.imgur.com/LmCg5HX.png"},"pinned":true,"tags":["gardenEntry"]}
 ---
 
-
-> [!warning] Search Function is Currently Down
-> 
-> The search function is currently down, as is the graph view. While I am sorting it out, please use the file explorer sidebar instead, sorry!
 
 ## Welcome! 
 
