@@ -43,7 +43,7 @@ Brief notes capturing an idea
 | [[01 Fleeting Notes/Hamburger Menu for Quartz\|Hamburger Menu for Quartz]]                                                       | May 31, 2024  |
 | [[01 Fleeting Notes/How to alter Quartz base scss safely\|How to alter Quartz base scss safely]]                                 | May 29, 2024  |
 | [[01 Fleeting Notes/Implementing a Horizontal Nav-Bar in Quartz\|Implementing a Horizontal Nav-Bar in Quartz]]                   | May 31, 2024  |
-| [[01 Fleeting Notes/Missing Custom Download Link Styling for MMW\|Missing Custom Download Link Styling for MMW]]                 | May 31, 2024  |
+| [[01 Fleeting Notes/Missing Custom Download Link Styling for MMW\|Missing Custom Download Link Styling for MMW]]                 | June 02, 2024 |
 | [[01 Fleeting Notes/Morrowind Screens Redone\|Morrowind Screens Redone]]                                                         | May 29, 2024  |
 | [[01 Fleeting Notes/Naming images and alt text for SEO\|Naming images and alt text for SEO]]                                     | May 29, 2024  |
 | [[01 Fleeting Notes/Properly naming folders and files for Quartz and SEO\|Properly naming folders and files for Quartz and SEO]] | May 29, 2024  |
