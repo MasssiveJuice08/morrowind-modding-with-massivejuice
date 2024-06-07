@@ -48,7 +48,7 @@ Brief notes capturing an idea
 | [[01 Fleeting Notes/Naming images and alt text for SEO\|Naming images and alt text for SEO]]                                     | May 29, 2024  |
 | [[01 Fleeting Notes/Properly naming folders and files for Quartz and SEO\|Properly naming folders and files for Quartz and SEO]] | June 02, 2024 |
 | [[01 Fleeting Notes/Quartz Table CSS Styling\|Quartz Table CSS Styling]]                                                         | June 02, 2024 |
-| [[01 Fleeting Notes/Tinybird Website Analytics\|Tinybird Website Analytics]]                                                     | May 29, 2024  |
+| [[01 Fleeting Notes/Tinybird Website Analytics\|Tinybird Website Analytics]]                                                     | June 02, 2024 |
 
 { .block-language-dataview}
 
@@ -88,7 +88,7 @@ Highlights of articles and forum posts saved with Omnivore. Many but not all con
 | [[02 Reference Notes/Omnivore/2024-03/Organizing information with tables - GitHub Docs\|Organizing information with tables - GitHub Docs]]                                                                               | May 28, 2024  |
 | [[02 Reference Notes/Omnivore/2024-03/Practically Paperless with Obsidian, Episode 21 - 'Tags in Theory and Tags in Practice'\|Practically Paperless with Obsidian, Episode 21 - 'Tags in Theory and Tags in Practice']] | May 28, 2024  |
 | [[02 Reference Notes/Omnivore/2024-03/Publish limitations - Obsidian Help\|Publish limitations - Obsidian Help]]                                                                                                         | May 28, 2024  |
-| [[02 Reference Notes/Omnivore/2024-05/Quartz - HardLineBreaks Plugin\|Quartz - HardLineBreaks Plugin]]                                                                                                                   | June 04, 2024 |
+| [[02 Reference Notes/Omnivore/2024-05/Quartz - HardLineBreaks Plugin\|Quartz - HardLineBreaks Plugin]]                                                                                                                   | June 02, 2024 |
 | [[02 Reference Notes/Omnivore/2024-04/SMOOTH Image Zoom on Hover Effects with CSS\|SMOOTH Image Zoom on Hover Effects with CSS]]                                                                                         | May 28, 2024  |
 | [[02 Reference Notes/Omnivore/2024-04/The Most Underrated But Obvious Way To Improve A Website\|The Most Underrated But Obvious Way To Improve A Website]]                                                               | May 28, 2024  |
 | [[02 Reference Notes/Omnivore/2024-05/Tiny Blog - 'Do emojis and accessibility work together-'\|Tiny Blog - 'Do emojis and accessibility work together-']]                                                               | May 28, 2024  |
