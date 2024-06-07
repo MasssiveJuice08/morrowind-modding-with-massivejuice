@@ -3,6 +3,12 @@
 ---
 
 
+> [!warning|txt-c ttl-c txt-s embed] Search function is currently down
+> 
+> The search function and graph view are currently not working right now, sorry! 
+> 
+> Please bear with me while I figure out how to fix it.
+
 ## Welcome! 
 
 ![Profile_Picture.jpg|profile left htiny wtiny](/img/user/Assets/Profile_Picture.jpg)
