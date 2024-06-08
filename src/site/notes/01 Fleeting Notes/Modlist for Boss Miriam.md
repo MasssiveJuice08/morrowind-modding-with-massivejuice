@@ -55,19 +55,17 @@ This is a minimal, vanilla-friendly Morrowind modlist for **OpenMW** I came up w
 | [Great Service](https://www.nexusmods.com/morrowind/mods/47767)                                                     | Enables voiced dialogue for shopkeepers that were shipped with the original game but never used.                                                                                                                                                                                                      |
 | [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)                                                         | Adds over 200 new voice entries for NPCs, mostly using edited original voice files.                                                                                                                                                                                                                   |
 | [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)                                              | Adds groundcover to Morrowind – grass and shrubs that respond to the player moving through them and blow in the wind.                                                                                                                                                                                 |
+| [DeltaPlugin](https://gitlab.com/bmwinger/delta-plugin) (recommended)                                               | For [object and levelled list merging](https://modding-openmw.com/tips/merging-objects/) of OMWAddon/ESP files. Strongly recommended you use this.                                                                                                                                                    |
 
 ## Installation:
-
-> [!info] How to install mods with OpenMW
-> 
-> See the OpenMW documentation: ['How to Install and Use Mods'](https://openmw.readthedocs.io/en/latest/reference/modding/mod-install.html)
-
-
-<br>
 
 - Download the [mod folder structure](https://github.com/MasssiveJuice08/Modlist-for-Boss-Miriam/blob/main/Mod%20Folder%20Structure.zip) from Github. Unpack this zip file into the directory `C:\games\`
 - Download each mod individually and unpack their contents into their respective folder, per the [[01 Fleeting Notes/Modlist for Boss Miriam#Modlist Folder Structure - Demonstration\|'Modlist Folder Structure - Demonstration']] below.
 - Copy and paste the [[01 Fleeting Notes/Modlist for Boss Miriam#CFG settings\|CFG Settings]] into your `openmw.cfg` and `settings.cfg` files per the CFG Settings instructions. The default location of these files is within the `Documents\My Games\OpenMW` directory on your computer.
+
+> [!info] How to install mods with OpenMW
+> 
+> See the OpenMW documentation: ['How to Install and Use Mods'](https://openmw.readthedocs.io/en/latest/reference/modding/mod-install.html)
 
 ### Modlist Folder Structure
 
@@ -85,6 +83,7 @@ Download from the [mod folder structure](https://github.com/MasssiveJuice08/Modl
 > | [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)                                              | 📂 `Fonts`          | 📂 `BetterDialogueFont`                                                                                                                                                         |
 > | [Beware the Sixth House (Sixth House Overhaul)](https://www.nexusmods.com/morrowind/mods/46036)                     | 📂 `Patches`        | 📂 `BewaretheSixthHouse`                                                                                                                                                        |
 > | [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714)                                               | 📂 `Patches`        | 📂 `BloodmoonRebalance`                                                                                                                                                         |
+> | [DeltaPlugin](https://gitlab.com/bmwinger/delta-plugin) | 📂 `Tools` | 📂 `DeltaPlugin`
 > | [Djangos Dialogue 1.4](https://www.nexusmods.com/morrowind/mods/47253)                                              | 📂 `NPCs`           | 📂 `DjangosDialogue`<br>├─📂 `Djangos Dialogue 1.43`                                                                                                                            |
 > | [Dynamic Distant Buildings for OpenMW](https://www.nexusmods.com/morrowind/mods/51236)                              | 📂 `Fixes`          | 📂 `DynamicDistantBuildingsforOpenMW`<br>├─📂 `Dynamic Distant Details`                                                                                                         |
 > | [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)                                                   | 📂 `Patches`        | 📂 `ExpansionDelay`                                                                                                                                                             |
@@ -236,6 +235,8 @@ Now locate the `settings.cfg` file (default location: `Documents\My Games\OpenM
 { #4aeab0}
 
 
+Once all three steps are completed, run [DeltaPlugin](https://gitlab.com/bmwinger/delta-plugin) `merge` to generate the `merged.omwaddon` plugin. Then, in `openmw.cfg` add `content=merged.omwaddon` after `content=AttendMe.omwscripts`. Enjoy your vanilla+ Morrowind!
+
 ## Credits
 
-**[Modding-OpenMW.com](https://modding-openmw.com/)**<br>This modlist was based primarily off the ['I Heart Vanilla'](https://modding-openmw.com/lists/i-heart-vanilla/) and ['Just Good Morrowind'](https://modding-openmw.com/lists/just-good-morrowind/) modlists curated by the MOMW team, with a number of my own personal preference tweaks. Its CFG Generator and the folder structure recommended by MOMW has also been the basis for the folder structure here.
+**[Modding-OpenMW.com](https://modding-openmw.com/)**<br>This modlist was based primarily on the ['I Heart Vanilla'](https://modding-openmw.com/lists/i-heart-vanilla/) and ['Just Good Morrowind'](https://modding-openmw.com/lists/just-good-morrowind/) modlists curated by the MOMW team, with a number of my own personal preference tweaks. Its CFG Generator and the folder structure recommended by MOMW has also been the basis for the folder structure here.
