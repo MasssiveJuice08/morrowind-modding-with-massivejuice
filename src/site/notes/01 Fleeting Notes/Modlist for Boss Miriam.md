@@ -1,11 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/01-fleeting-notes/modlist-for-boss-miriam/","metatags":{"description":"A minimal, vanilla-friendly modlist I came up with for my friend who wanted to get into Morrowind but was put off by some of its ancient Bethesda jank","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["Modlist"]}
+{"dg-publish":true,"permalink":"/01-fleeting-notes/modlist-for-boss-miriam/","metatags":{"description":"A minimal, vanilla-friendly modlist I came up with for my friend who wanted to get into Morrowind but was put off by some of its ancient Bethesda jank","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["Modlist","OpenMW"]}
 ---
 
 
 ## About
 
-This is a minimal, vanilla-friendly Morrowind modlist I came up with for my friend who wanted to get into Morrowind but was put off by some of its ancient Bethesda jank. Its aim is to provide:
+> [!infobox|right n-th]
+> 
+> # Modlist for Boss Miriam
+> 
+> ---
+> 
+> |     |     |
+> | --- | --- |
+> | **Requires** | OpenMW 0.48+ |
+> | **Github** | [Modlist-for-Boss-Miriam](https://github.com/MasssiveJuice08/Modlist-for-Boss-Miriam)
+
+This is a minimal, vanilla-friendly Morrowind modlist for **OpenMW** I came up with for my friend who wanted to get into Morrowind but was put off by some of its ancient Bethesda jank. Its aim is to provide:
 
 - Modest graphical improvement without going overboard, and keeping performance in mind
 - Quality of life improvements and bug fixes 
@@ -47,57 +58,67 @@ This is a minimal, vanilla-friendly Morrowind modlist I came up with for my frie
 
 ## Installation:
 
-> [!caption|right c-p-sm wfit]
-> 
-> <iframe width="304" height="171" src="https://youtube.com/embed/xzq_ksVuRgc?si" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-> 
-> 'Install an OpenMW mod: [johnnyhostile](https://next.nexusmods.com/profile/johnnyhostile/about-me).
-
-> [!info]+ How to install mods with OpenMW
+> [!info] How to install mods with OpenMW
 > 
 > See the OpenMW documentation: ['How to Install and Use Mods'](https://openmw.readthedocs.io/en/latest/reference/modding/mod-install.html)
-> 
-> Also see [johnnyhostile's](https://next.nexusmods.com/profile/johnnyhostile/about-me) videos: [Install an OpenMW mod](https://www.youtube.com/watch?v=xzq_ksVuRgc&t=6s)
+
+
+<br>
+
+- Download the [mod folder structure](https://github.com/MasssiveJuice08/Modlist-for-Boss-Miriam/blob/main/Mod%20Folder%20Structure.zip) from Github. Unpack this zip file into the directory `C:\games\`
+- Download each mod individually and unpack their contents into their respective folder, per the [[01 Fleeting Notes/Modlist for Boss Miriam#Modlist Folder Structure - Demonstration\|'Modlist Folder Structure - Demonstration']] below.
+- Copy and paste the [[01 Fleeting Notes/Modlist for Boss Miriam#CFG settings\|CFG Settings]] into your `openmw.cfg` and `settings.cfg` files per the CFG Settings instructions. The default location of these files is within the `Documents\My Games\OpenMW` directory on your computer.
 
 ### Modlist Folder Structure
 
+Download from the [mod folder structure](https://github.com/MasssiveJuice08/Modlist-for-Boss-Miriam/blob/main/Mod%20Folder%20Structure.zip) from Github (click the download symbol 'Download raw file'). Unpack this zip file into the directory `C:\games\`, which will add a folder titled `OpenMWMods`. You can use the [[01 Fleeting Notes/Modlist for Boss Miriam#^24e2e2\|Folder Structure Guide]] below
 
-| Mod                                                                                                                 | Parent Folder       | Subfolders                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [AFFresh](https://www.nexusmods.com/morrowind/mods/53006)                                                           | 📂 `Quests`         | 📂 `AFFresh`                                                                                                                                                                    |
-| [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)                                                         | 📂 `NPCs`           | 📂 `AttendMe`<br>├─📂 `AttendMe_1.8`                                                                                                                                            |
-| [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)                             | 📂 `Patches`        | 📂 `BethesdaOfficialPluginsNaturalized`<br>├─📂 `Optional`<br>│   ├─📂 `High Resolution Textures`                                                                               |
-| [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)                                              | 📂 `Fonts`          | 📂 `BetterDialogueFont`                                                                                                                                                         |
-| [Beware the Sixth House (Sixth House Overhaul)](https://www.nexusmods.com/morrowind/mods/46036)                     | 📂 `Patches`        | 📂 `BewaretheSixthHouse`                                                                                                                                                        |
-| [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714)                                               | 📂 `Patches`        | 📂 `BloodmoonRebalance`                                                                                                                                                         |
-| [Djangos Dialogue 1.4](https://www.nexusmods.com/morrowind/mods/47253)                                              | 📂 `NPCs`           | 📂 `DjangosDialogue`<br>├─📂 `Djangos Dialogue 1.43`                                                                                                                            |
-| [Dynamic Distant Buildings for OpenMW](https://www.nexusmods.com/morrowind/mods/51236)                              | 📂 `Fixes`          | 📂 `DynamicDistantBuildingsforOpenMW`<br>├─📂 `Dynamic Distant Details`                                                                                                         |
-| [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)                                                   | 📂 `Patches`        | 📂 `ExpansionDelay`                                                                                                                                                             |
-| [Facelift](https://www.nexusmods.com/morrowind/mods/47617)                                                          | 📂 `NPCs`           | 📂 `Facelift`                                                                                                                                                                   |
-| [Familiar Faces](https://www.nexusmods.com/morrowind/mods/50093)                                                    | 📂 `NPCs`           | 📂 `FamiliarFaces`                                                                                                                                                              |
-| [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)                                                 | 📂 `Lighting`       | 📂 `GlowintheDahrk`<br>├─📂 `00 Core`<br>├─📂 `01 Hi Res Window Texture Replacer`<br>├─📂 `03 Telvanni Dormers on Vvardenfell`<br>├─📂 `07 Telvanni Tower Interior Glow OpenMW` |
-| [Graphic Herbalism - (MWSE and OpenMW Edition)](https://www.nexusmods.com/morrowind/mods/46599)                     | 📂 `Gameplay`       | 📂 `GraphicHerbalismMWSEandOpenMWEdition`<br>├─📂 `00 Core + Vanilla Meshes`                                                                                                    |
-| [Great Service](https://www.nexusmods.com/morrowind/mods/47767)                                                     | 📂 `VFX`            | 📂 `GreatService`<br>├─📂 `Great Service`                                                                                                                                       |
-| [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)                                                         | 📂 `VFX`            | 📂 `IdleTalk`<br>├─📂 `Idle Talk`                                                                                                                                               |
-| [Improved Lights for all Shaders](https://www.nexusmods.com/morrowind/mods/51463)                                   | 📂 `Lighting`       | 📂 `ImprovedLightsforallShaders`<br>├─📂 `00 Core`<br>├─📂 `01 Smoke and Steam Emitters`                                                                                        |
-| [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)                                              | 📂 `TexturePacks`   | 📂 `IntelligentTextures`<br>├─📂 `00 Core`<br>├─📂 `01 Atlas Textures`                                                                                                          |
-| [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)                                      | 📂 `Performance`    | 📂 `MorrowindOptimizationPatch`<br>├─📂 `00 Core` <br>├─📂 `01 Lake Fjalding Anti-Suck`<br>├─📂 `02 Weapon Sheathing Patch`<br>├─📂 `05 Graphic Herbalism Patch`                |
-| [Nords Shut Your Windows](https://www.nexusmods.com/morrowind/mods/50087)                                           | 📂 `Architecture`   | 📂 `NordsShutYourWindows`<br>├─📂 `00 Core`<br>├─📂 `04 Purist`<br>├─📂 `05 Purist Sunrays`                                                                                     |
-| [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)                                        | 📂 `ObjectsClutter` | 📂 `OpenMWContainersAnimated`<br>├─📂 `Containers Animated`<br>├─📂 `Optional`<br>│   ├─📂 `kollops`                                                                            |
-| [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)                                                 | 📂 `Patches`        | 📂 `PatchforPurists`                                                                                                                                                            |
-| [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)                                                     | 📂 `Performance`    | 📂 `ProjectAtlas`<br>├─📂 `00 Core`<br>├─📂 `06 Glow in the Dahrk Patch`<br>├─📂 `07 Graphic Herbalism Patch`                                                                   |
-| [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)                                              | 📂 `Groundcover`    | 📂 `RemirosGroundcover`<br>├─📂`00 Core OpenMW`                                                                                                                                 |
-| [Title Screen and Logo Video Intro Reworked](https://www.nexusmods.com/morrowind/mods/43657)                        | 📂 `UserInterface`  | 📂 `TitleScreenandLogoVideoIntroReworked`<br>├─📂 `Title Screen`<br>├─📂 `Logo Video`                                                                                           |
-| [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713)                                                | 📂 `Patches`        | 📂 `TribunalRebalance`                                                                                                                                                          |
-| [Unofficial Official Morrowind Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931)                     | 📂 `Patches`        | 📂 `UnofficialMorrowindOfficialPluginsPatched`<br>├─📂 `02 bitter coast sounds`<br>├─📂 `03 entertainers`<br>├─📂 `05 lefemm armor`<br>├─📂 `05 lefemm armor compatibility`     |
-| [Vanilla-Flavoured Hair - a Hair Mesh Replacer Mod](https://www.nexusmods.com/morrowind/mods/49910?tab=description) | 📂 `NPCs`           | 📂 `VanillaFlavouredHair`<br>├─📂 `Vanilla`                                                                                                                                     |
-| [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)                                                  | 📂 `Weapons`        | 📂 `WeaponSheathing`<br>├─📂 `Data Files`                                                                                                                                       |
-| [Wide Screen Splash Replacer](https://www.nexusmods.com/morrowind/mods/50966)                                       | 📂 `UserInterface`  | 📂 `WideScreenSplashReplacer`<br>├─📂 `NZdawghaus' Widescreen Splash Replacer`<br>                                                                                              |
+> [!example|color-blue subt txt-s]+ Folder Structure Guide _click to expand_
+> 
+> 
+> 
+> | Mod                                                                                                                 | Parent Folder       | Subfolders                                                                                                                                                                      |
+> | ------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [AFFresh](https://www.nexusmods.com/morrowind/mods/53006)                                                           | 📂 `Quests`         | 📂 `AFFresh`                                                                                                                                                                    |
+> | [Attend Me](https://www.nexusmods.com/morrowind/mods/51232)                                                         | 📂 `NPCs`           | 📂 `AttendMe`<br>├─📂 `AttendMe_1.8`                                                                                                                                            |
+> | [Bethesda Official Plugins Naturalized](https://www.nexusmods.com/morrowind/mods/51107)                             | 📂 `Patches`        | 📂 `BethesdaOfficialPluginsNaturalized`<br>├─📂 `Optional`<br>│   ├─📂 `High Resolution Textures`                                                                               |
+> | [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)                                              | 📂 `Fonts`          | 📂 `BetterDialogueFont`                                                                                                                                                         |
+> | [Beware the Sixth House (Sixth House Overhaul)](https://www.nexusmods.com/morrowind/mods/46036)                     | 📂 `Patches`        | 📂 `BewaretheSixthHouse`                                                                                                                                                        |
+> | [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714)                                               | 📂 `Patches`        | 📂 `BloodmoonRebalance`                                                                                                                                                         |
+> | [Djangos Dialogue 1.4](https://www.nexusmods.com/morrowind/mods/47253)                                              | 📂 `NPCs`           | 📂 `DjangosDialogue`<br>├─📂 `Djangos Dialogue 1.43`                                                                                                                            |
+> | [Dynamic Distant Buildings for OpenMW](https://www.nexusmods.com/morrowind/mods/51236)                              | 📂 `Fixes`          | 📂 `DynamicDistantBuildingsforOpenMW`<br>├─📂 `Dynamic Distant Details`                                                                                                         |
+> | [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)                                                   | 📂 `Patches`        | 📂 `ExpansionDelay`                                                                                                                                                             |
+> | [Facelift](https://www.nexusmods.com/morrowind/mods/47617)                                                          | 📂 `NPCs`           | 📂 `Facelift`                                                                                                                                                                   |
+> | [Familiar Faces](https://www.nexusmods.com/morrowind/mods/50093)                                                    | 📂 `NPCs`           | 📂 `FamiliarFaces`                                                                                                                                                              |
+> | [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)                                                 | 📂 `Lighting`       | 📂 `GlowintheDahrk`<br>├─📂 `00 Core`<br>├─📂 `01 Hi Res Window Texture Replacer`<br>├─📂 `03 Telvanni Dormers on Vvardenfell`<br>├─📂 `07 Telvanni Tower Interior Glow OpenMW` |
+> | [Graphic Herbalism - (MWSE and OpenMW Edition)](https://www.nexusmods.com/morrowind/mods/46599)                     | 📂 `Gameplay`       | 📂 `GraphicHerbalismMWSEandOpenMWEdition`<br>├─📂 `00 Core + Vanilla Meshes`                                                                                                    |
+> | [Great Service](https://www.nexusmods.com/morrowind/mods/47767)                                                     | 📂 `VFX`            | 📂 `GreatService`<br>├─📂 `Great Service`                                                                                                                                       |
+> | [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)                                                         | 📂 `VFX`            | 📂 `IdleTalk`<br>├─📂 `Idle Talk`                                                                                                                                               |
+> | [Improved Lights for all Shaders](https://www.nexusmods.com/morrowind/mods/51463)                                   | 📂 `Lighting`       | 📂 `ImprovedLightsforallShaders`<br>├─📂 `00 Core`<br>├─📂 `01 Smoke and Steam Emitters`                                                                                        |
+> | [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)                                              | 📂 `TexturePacks`   | 📂 `IntelligentTextures`<br>├─📂 `00 Core`<br>├─📂 `01 Atlas Textures`                                                                                                          |
+> | [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)                                      | 📂 `Performance`    | 📂 `MorrowindOptimizationPatch`<br>├─📂 `00 Core` <br>├─📂 `01 Lake Fjalding Anti-Suck`<br>├─📂 `02 Weapon Sheathing Patch`<br>├─📂 `05 Graphic Herbalism Patch`                |
+> | [Nords Shut Your Windows](https://www.nexusmods.com/morrowind/mods/50087)                                           | 📂 `Architecture`   | 📂 `NordsShutYourWindows`<br>├─📂 `00 Core`<br>├─📂 `04 Purist`<br>├─📂 `05 Purist Sunrays`                                                                                     |
+> | [OpenMW Containers Animated](https://www.nexusmods.com/morrowind/mods/46232)                                        | 📂 `ObjectsClutter` | 📂 `OpenMWContainersAnimated`<br>├─📂 `Containers Animated`<br>├─📂 `Optional`<br>│   ├─📂 `kollops`                                                                            |
+> | [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)                                                 | 📂 `Patches`        | 📂 `PatchforPurists`                                                                                                                                                            |
+> | [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)                                                     | 📂 `Performance`    | 📂 `ProjectAtlas`<br>├─📂 `00 Core`<br>├─📂 `06 Glow in the Dahrk Patch`<br>├─📂 `07 Graphic Herbalism Patch`                                                                   |
+> | [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)                                              | 📂 `Groundcover`    | 📂 `RemirosGroundcover`<br>├─📂`00 Core OpenMW`                                                                                                                                 |
+> | [Title Screen and Logo Video Intro Reworked](https://www.nexusmods.com/morrowind/mods/43657)                        | 📂 `UserInterface`  | 📂 `TitleScreenandLogoVideoIntroReworked`<br>├─📂 `Title Screen`<br>├─📂 `Logo Video`                                                                                           |
+> | [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713)                                                | 📂 `Patches`        | 📂 `TribunalRebalance`                                                                                                                                                          |
+> | [Unofficial Official Morrowind Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931)                     | 📂 `Patches`        | 📂 `UnofficialMorrowindOfficialPluginsPatched`<br>├─📂 `02 bitter coast sounds`<br>├─📂 `03 entertainers`<br>├─📂 `05 lefemm armor`<br>├─📂 `05 lefemm armor compatibility`     |
+> | [Vanilla-Flavoured Hair - a Hair Mesh Replacer Mod](https://www.nexusmods.com/morrowind/mods/49910?tab=description) | 📂 `NPCs`           | 📂 `VanillaFlavouredHair`<br>├─📂 `Vanilla`                                                                                                                                     |
+> | [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)                                                  | 📂 `Weapons`        | 📂 `WeaponSheathing`<br>├─📂 `Data Files`                                                                                                                                       |
+> | [Wide Screen Splash Replacer](https://www.nexusmods.com/morrowind/mods/50966)                                       | 📂 `UserInterface`  | 📂 `WideScreenSplashReplacer`<br>├─📂 `NZdawghaus' Widescreen Splash Replacer`<br>                                                                                              |
+{ #24e2e2}
 
 
-###  CFG settings
 
-> [!abstract]- Data Paths
+###  CFG Settings
+
+Locate your `openmw.cfg` file (default location: `Documents\My Games\OpenMW`). Search the text file for "data=", where you will find one entry: the location of your Morrowind install.
+
+Add a newline below this, and paste the contents of [[01 Fleeting Notes/Modlist for Boss Miriam#^faf158\|Data Paths]] below.
+
+> [!abstract]- Data Paths 
 >
 > ```
 >data="C:\games\OpenMWMods\Patches\PatchforPurists"
@@ -148,6 +169,10 @@ This is a minimal, vanilla-friendly Morrowind modlist I came up with for my frie
 > data="C:\games\OpenMWMods\VFX\GreatService\Great Service"
 > data="C:\games\OpenMWMods\VFX\IdleTalk\Idle Talk"
 > ```
+{ #faf158}
+
+
+Again in your `openmw.cfg` file (default location: `Documents\My Games\OpenMW`), search the text file for "content=". Delete any entries here, then copy and paste the contents of [[01 Fleeting Notes/Modlist for Boss Miriam#^721290\|Plugin Load Order]] below into it.
 
 > [!abstract]- Plugin Load Order
 > 
@@ -183,11 +208,7 @@ This is a minimal, vanilla-friendly Morrowind modlist I came up with for my frie
 > content=HM_DDD_Strongholds_R_v1.0.esp
 > content=HM_DDD_Strongholds_T_v1.0.esp
 > content=AttendMe.omwscripts
-> ```
-
-> [!abstract]- Enabling Groundcover
-> 
-> ```
+> ## Groundcover
 > groundcover=Rem_AC.esp
 > groundcover=Rem_AI.esp
 > groundcover=Rem_AL.esp
@@ -196,7 +217,25 @@ This is a minimal, vanilla-friendly Morrowind modlist I came up with for my frie
 > groundcover=Rem_WG.esp
 > groundcover=Rem_Solstheim.esp
 > ```
+{ #721290}
+
+
+Now locate the `settings.cfg` file (default location: `Documents\My Games\OpenMW`). Insert the text below in [[01 Fleeting Notes/Modlist for Boss Miriam#^4aeab0\|Enabling Groundcover]]. This can be placed as a section anywhere within the settings file - the order of the various settings headings (e.g., `[Groundcover]` `[Camera]`, `[Game]`) does not matter.
+
+> [!abstract]- Enabling Groundcover
+> 
+> ```
+> [Groundcover]
+> enabled = true
+> density = 1.0
+> min chunk size = 1.0
+> stomp mode = 2
+> stomp intensity = 0
+> rendering distance = 6144.0
+> ```
+{ #4aeab0}
+
 
 ## Credits
 
-**[Modding-OpenMW.com](https://modding-openmw.com/)** – this modlist was based primarily off the ['I Heart Vanilla'](https://modding-openmw.com/lists/i-heart-vanilla/) and ['Just Good Morrowind'](https://modding-openmw.com/lists/just-good-morrowind/) modlists curated by the MOMW team, with a number of my own personal preference tweaks. Its CFG Generator and the folder structure recommended by MOMW has also been the basis for the folder structure here.
+**[Modding-OpenMW.com](https://modding-openmw.com/)**<br>This modlist was based primarily off the ['I Heart Vanilla'](https://modding-openmw.com/lists/i-heart-vanilla/) and ['Just Good Morrowind'](https://modding-openmw.com/lists/just-good-morrowind/) modlists curated by the MOMW team, with a number of my own personal preference tweaks. Its CFG Generator and the folder structure recommended by MOMW has also been the basis for the folder structure here.
