@@ -27,8 +27,8 @@ I make Morrowind mods and one day I hope to actually finish one of them. You can
 > [![SOV_02-01-24_preview_12.png|sban htiny ctr p+cct](/img/user/Assets/Secret-of-Vilmuhn/SOV_02-01-24_preview_12.png)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/secret-of-vilmuhn/secret-of-vilmuhn-home/)
 
 > [!cards|2]
-> **[[00 Projects/NGasta Pasta/N-Gasta Pasta - Home\|N'Gasta Pasta]]**
-> [![NGasta-Pasta_Banner.webp|sban htiny ctr p+cct](/img/user/Assets/NGasta-Pasta/NGasta-Pasta_Banner.webp)](<N-Gasta Pasta - Home>)
+> **[[N-Gasta Pasta - Home\|N'Gasta Pasta]]**
+> [![[NGasta-Pasta_Banner.webp\|sban htiny ctr p+cct]]](<N-Gasta Pasta - Home>)
 > 
 > **[[00 Projects/Dioramas/00 Morrowind-Themed Dioramas\|Morrowind-Themed Dioramas]]**
 > [![Redoran-Hut_Bday_Front.jpg|sban htiny ctr p+cct](/img/user/Assets/Dioramas/Redoran-Hut_Bday_Front.jpg)](https://morrowind-modding-with-massivejuice.vercel.app/00-projects/dioramas/00-morrowind-themed-dioramas/)
