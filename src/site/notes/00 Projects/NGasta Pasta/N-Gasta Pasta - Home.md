@@ -6,7 +6,7 @@
 
 A mod for the 2023 Morrowind Summer Modjam.
 
-![N'Gasta-Pasta_Banner.webp|banner](/img/user/Assets/N'Gasta-Pasta/N'Gasta-Pasta_Banner.webp)
+![NGasta-Pasta_Banner.webp|banner](/img/user/Assets/NGasta-Pasta/NGasta-Pasta_Banner.webp)
 
 > [!quote|mark color-purple] **~ Artisa Arelas**
 > _"Someone thinks the Masque of Clavicus Vile is here on Vvardenfell._ 
@@ -17,7 +17,7 @@ A mod for the 2023 Morrowind Summer Modjam.
 
 > [!infobox|n-th] 
 > # N'Gasta Pasta
-> ![2023_Morrowind_Summer_Modjam_Banner.png](/img/user/Assets/N'Gasta-Pasta/2023_Morrowind_Summer_Modjam_Banner.png)
+> ![2023_Morrowind_Summer_Modjam_Banner.png](/img/user/Assets/NGasta-Pasta/2023_Morrowind_Summer_Modjam_Banner.png)
 > 
 > ###### Requirements
 > | Mod Name | Notes |
