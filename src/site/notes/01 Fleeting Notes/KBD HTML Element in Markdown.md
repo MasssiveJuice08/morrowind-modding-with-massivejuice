@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-fleeting-notes/kbd-html-element-in-markdown/","title":"'KBD' HTML Element in Markdown","tags":["MMW-Dev/Accessibility","MMW-Dev/CSS","MMW-Style"]}
+{"dg-publish":true,"permalink":"/01-fleeting-notes/kbd-html-element-in-markdown/","tags":["MMW-Dev/Accessibility","MMW-Dev/CSS","MMW-Style"]}
 ---
 
 ## About
