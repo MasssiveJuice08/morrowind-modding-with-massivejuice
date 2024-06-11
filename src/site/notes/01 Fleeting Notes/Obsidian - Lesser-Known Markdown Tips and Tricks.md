@@ -114,3 +114,8 @@ The HTML method is functional, but tedious to format. this could be alleviated b
 
 </div></div>
 
+
+## Tables - lists and linebreaks
+
+- https://www.markdownguide.org/hacks/#line-breaks-within-table-cells
+- https://www.markdownguide.org/hacks/#lists-within-table-cells
