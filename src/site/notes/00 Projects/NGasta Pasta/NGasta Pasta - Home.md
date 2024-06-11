@@ -36,6 +36,6 @@ A mod for the 2023 Morrowind Summer Modjam.
 
 ### Description
 
-My submission for the 2023 Summer Modjam. Sadly unfinished before the deadline - I bit off way more than I could chew in 48 hours. Currently only contains exteriors, with no interiors or quests - **this is not a finished mod and currently only offers sightseeing**. The mod offers an interpretation of what the Sload necromancer N'Gasta's tower on Vvardenfel may have looked like.
+My submission for the 2023 Summer Modjam. Sadly unfinished before the deadline - I bit off way more than I could chew in 48 hours. Currently, the mods only contains exteriors with no interiors or quests - **this is not a finished mod and currently only offers sightseeing**. The mod offers an interpretation of what the Sload necromancer N'Gasta's tower on Vvardenfel may have looked like.
 
 This was the first real showcase of my landscaping skills and where I developed my particular style. However, I am dissatisfied with how extensive the landscape edits it makes are, as this could make it a nightmare for compatibility. A key part of the mythos of N'Gasta's tower on Vvardenfell is that it has been lost for many years – my megalomanic, imposing tower is somewhat... difficult to miss... so I feel that it fails on that point. I hope in future to completely remake the mod, this time moving the actual tower to an interior cell, with the story being that the tower and surrounding landscape were ripped from the earth and transported to another realm (such as the [Soul Cairn](https://en.m.uesp.net/wiki/Lore:Soul_Cairn)).
