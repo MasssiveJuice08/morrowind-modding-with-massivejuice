@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-reference-notes/omnivore-manual-entry/2024-03/embedding-you-tube-videos-in-obsidian-digital-garden/","title":"Embedding YouTube Videos in Obsidian Digital Garden\n","metatags":{"description":"I would love to be able to embed videos in my notes and have them appear on my digital garden as well. Right now, it just shows ![[videofilename.mp4]] in it's place instead.","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["MMW-Dev/Alternative-Sites/DG","Obsidian-DG/Videos","omnivore-bug"]}
+{"dg-publish":true,"permalink":"/02-reference-notes/omnivore-manual-entry/2024-03/embedding-you-tube-videos-in-obsidian-digital-garden/","title":"Embedding YouTube Videos in Obsidian Digital Garden\n","metatags":{"description":"A Github Discussion in obsidian-digital-garden on how to embed youtube videos using iframe","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["MMW-Dev/Alternative-Sites/DG","Obsidian-DG/Videos","omnivore-bug"]}
 ---
 
 
