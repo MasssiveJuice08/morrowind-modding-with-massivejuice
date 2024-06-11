@@ -43,6 +43,7 @@ Brief notes capturing an idea
 | [[01 Fleeting Notes/Implementing a Horizontal Nav-Bar in Quartz\|Implementing a Horizontal Nav-Bar in Quartz]]                   | May 31, 2024  |
 | [[01 Fleeting Notes/KBD HTML Element in Markdown\|KBD HTML Element in Markdown]]                                                 | June 11, 2024 |
 | [[01 Fleeting Notes/Missing Custom Download Link Styling for MMW\|Missing Custom Download Link Styling for MMW]]                 | June 02, 2024 |
+| [[01 Fleeting Notes/MMW Inline Cleanup Tags\|MMW Inline Cleanup Tags]]                                                           | June 11, 2024 |
 | [[01 Fleeting Notes/Morrowind Screens Redone\|Morrowind Screens Redone]]                                                         | May 29, 2024  |
 | [[01 Fleeting Notes/Naming images and alt text for SEO\|Naming images and alt text for SEO]]                                     | May 29, 2024  |
 | [[01 Fleeting Notes/Properly naming folders and files for Quartz and SEO\|Properly naming folders and files for Quartz and SEO]] | June 02, 2024 |
