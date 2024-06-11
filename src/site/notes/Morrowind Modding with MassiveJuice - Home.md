@@ -15,7 +15,14 @@
 
 Kia ora, I'm **MassiveJuice**!
 
-I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process. I also host my blog here, [[03 Blog/00 MassiveJuice's Morrowind Modding Blog\|MassiveJuice's Morrowind Modding Blog]]
+I make Morrowind mods and one day I hope to actually finish one of them. You can follow along here for updates on my various projects and see details of my research and creative process, including:
+
+- Morrowind modmaking tips,
+- Research on developing the [[00 Projects/Morrowind Modding Wiki/Morrowind Modding Wiki - Home\|Morrowind Modding Wiki]] with S3ctor and Greatness7,
+- Morrowind-themed Dioramas,
+- Using [Obsidian.md](https://obsidian.md/) as a creative tool for knowledge management and Morrowind modding (which alongside [Obsidian Digital Garden](https://dg-docs.ole.dev/) was used to create this site).
+
+I also host my blog here, [[03 Blog/00 MassiveJuice's Morrowind Modding Blog\|MassiveJuice's Morrowind Modding Blog]]. 
 
 ## Projects
 
