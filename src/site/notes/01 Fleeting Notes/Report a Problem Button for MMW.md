@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-fleeting-notes/report-a-problem-button-for-mmw/","title":"'Report a Problem' Button for MMW","tags":["MMW-Dev/Workflow","Quartz/UI"]}
+{"dg-publish":true,"permalink":"/01-fleeting-notes/report-a-problem-button-for-mmw/","tags":["MMW-Dev/Workflow","Quartz/UI"]}
 ---
 
 ## Use-Case for a 'Report a Problem' Button for the Morrowind Modding Wiki:
