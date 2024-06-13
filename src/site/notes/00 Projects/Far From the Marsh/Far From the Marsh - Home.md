@@ -78,6 +78,20 @@ You can find their cave west of Dagon Fel. Follow the road west and then north t
 > 
 { .block-language-dataview}
 
+### To-Do
+
+**Quest**:
+- [ ] Jeelish-Tar's journal starts at Sun's Dawn month but talks of New Year; change month to Morning Star.
+- [ ] Finish quest dialogue and add journal entries
+- [ ] Add dialogue for Andre Maul and Dagon Folk NPCs
+- [ ] Script travel to Andre Maul's Island
+
+**World**
+- [ ] Finish Jeelish-Tar's cave
+- [ ] Find reference images of vanilla and TR Mages Guild interiors for ideas on cluttering
+- [ ] Find Reference images of cave-dwelling rogue mages
+
+
 ### Creative Process - Quest Writing:
 
 I experimented with using ChatGPT to develop the questline for this mod. In my personal life I have worked a lot on [Devised Theatre](https://en.wikipedia.org/wiki/Devised_theatre), and it's the type of creative process I am most familiar with, as opposed to scriptwriting. I have found ChatGPT to be a surprisingly capable tool for simulating the devising process: I fill the role of director and [dramaturg](https://en.wikipedia.org/wiki/Dramaturge), while ChatGPT is the devisor. I offer creative prompts and direction, and undertake research on lore and Morrowind's writing style. Once all the initial writing has been completed by ChatGPT, my intention is to then act as the story editor, tweaking and refining the material. 
@@ -233,10 +247,5 @@ Week one theme - **'Mysticism and Prophecy'**
 
 
 ---
-
-### To-Do
-- [ ] Jeelish-Tar's journal starts at Sun's Dawn month but talks of New Year; change month to Morning Star.
-- [ ] Finish cave
-- [ ] Finish quest dialogue and add journal entries
 
 [^1]: I say 'its' ideas because authorship and plagiarism with AI language models is a contentious subject. Despite how thorough my creative prompts and feedback are, what ChatGPT outputs might still be a facsimile of someone else's work. Therefore, the final stage of heavily editing ChatGPT's work _without_ its input is a vital step to ensure that the final product is not unwitting plagiarism
