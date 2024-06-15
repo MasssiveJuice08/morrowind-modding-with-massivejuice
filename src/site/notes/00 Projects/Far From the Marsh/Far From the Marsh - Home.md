@@ -1,17 +1,7 @@
 ---
-state: in-progress
-tags:
-  - MW-May-Modathon-2024
-  - MOC
-  - Far-From-the-Marsh
-cssclasses: 
-dg-publish: true
-dg-metatags:
-  description: Far From the Marsh a Morrowind mod by MassiveJuice
-  og:image: https://i.imgur.com/LmCg5HX.png
-aliases:
-  - Far From the Marsh
+{"dg-publish":true,"permalink":"/00-projects/far-from-the-marsh/far-from-the-marsh-home/","metatags":{"description":"Far From the Marsh a Morrowind mod by MassiveJuice","og:image":"https://i.imgur.com/LmCg5HX.png"},"pinned":true,"tags":["MW-May-Modathon-2024","MOC","Far-From-the-Marsh"]}
 ---
+
 ## Far From the Marsh
 
 A mod for Week One of the 2024 Morrowind Modathon theme, **'Mysticism and Prophecy'**
