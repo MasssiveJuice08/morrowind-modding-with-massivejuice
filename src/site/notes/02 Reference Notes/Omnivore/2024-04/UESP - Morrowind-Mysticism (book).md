@@ -3,11 +3,16 @@
 ---
 
 
-## UESP - Morrowind-Mysticism (book)
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/morrowind-mysticism-book-the-unofficial-elder-scrolls-pages-uesp-18f2df39ed1)
 [Read Original](https://en.uesp.net/wiki/Morrowind:Mysticism_(book))
+
+UESP article on the book 'Mysticism' found in Morrowind
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

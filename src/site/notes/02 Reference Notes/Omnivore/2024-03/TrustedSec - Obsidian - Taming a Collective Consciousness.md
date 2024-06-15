@@ -3,11 +3,16 @@
 ---
 
 
-## TrustedSec - Obsidian - Taming a Collective Consciousness
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/trusted-sec-obsidian-taming-a-collective-consciousness-18e56204d1d)
 [Read Original](https://www.trustedsec.com/blog/obsidian-taming-a-collective-consciousness)
+
+A thorough examination on using Obsidian collaboratively with Git
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

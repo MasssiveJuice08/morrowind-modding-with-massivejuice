@@ -3,11 +3,16 @@
 ---
 
 
-## Flawless Formatting – A Step-By-Step Guide To Make Anything You Write Easy To Read
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-www-ship-30-for-30-com-post-flawless-formatting-a-step-by--18ffbc06830)
 [Read Original](https://www.ship30for30.com/post/flawless-formatting-a-step-by-step-guide-to-make-anything-you-write-easy-to-read-and-skimmable)
+
+An article from Ship 30 For 30 on how to improve readability and clarity of written digital content.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

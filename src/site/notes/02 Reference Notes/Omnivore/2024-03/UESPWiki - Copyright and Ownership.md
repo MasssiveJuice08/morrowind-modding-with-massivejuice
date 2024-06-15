@@ -3,11 +3,16 @@
 ---
 
 
-## UESPWiki - Copyright and Ownership
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/uesp-wiki-copyright-and-ownership-the-unofficial-elder-scrolls-p-18e3bbde267)
 [Read Original](https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership)
+
+The UESPWiki – Your source for The Elder Scrolls since 1995
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

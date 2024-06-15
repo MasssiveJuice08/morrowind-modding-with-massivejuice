@@ -3,11 +3,16 @@
 ---
 
 
-## Obsidian Plugin - Supercharged Links
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-mdelobelle-obsidian-supercharged-links-blob-mas-18e7a7e0a57)
 [Read Original](https://github.com/mdelobelle/obsidian_supercharged_links/blob/master/README.md)
+
+Obsidian plugin to add attributes and context menu options to internal links
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

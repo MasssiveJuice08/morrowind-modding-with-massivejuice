@@ -3,11 +3,16 @@
 ---
 
 
-## How To Use CSS Hex Code Colors with Alpha Values | DigitalOcean
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/how-to-use-css-hex-code-colors-with-alpha-values-digital-ocean-18e40b39af0)
 [Read Original](https://www.digitalocean.com/community/tutorials/css-hex-code-colors-alpha-values)
+
+Learn how to use hex codes in CSS and change the transparency of the color by using an alpha value. An introduction to hexadecimal numbers is included, too.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

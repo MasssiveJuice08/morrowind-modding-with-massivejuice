@@ -3,11 +3,16 @@
 ---
 
 
-## Obsidian Grid Callouts - joschua.io
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/obsidian-grid-callouts-joschua-io-18e9c3f29f0)
 [Read Original](https://joschua.io/posts/2022/12/04/obsidian-grid-callouts/)
+
+How to arrange content in Obsidian in columns without any plugins.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

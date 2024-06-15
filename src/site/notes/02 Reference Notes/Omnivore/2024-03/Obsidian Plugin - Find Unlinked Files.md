@@ -3,11 +3,16 @@
 ---
 
 
-## Obsidian Plugin - Find Unlinked Files
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-vinzent-03-find-unlinked-files-blob-main-readme-18e6efeba91)
 [Read Original](https://github.com/Vinzent03/find-unlinked-files/blob/main/README.md)
+
+Obsidian plugin to find files which are not linked to and may be lost in your vault.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

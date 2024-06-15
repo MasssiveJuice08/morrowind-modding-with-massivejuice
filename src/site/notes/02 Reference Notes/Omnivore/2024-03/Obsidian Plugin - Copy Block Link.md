@@ -3,11 +3,16 @@
 ---
 
 
-## Obsidian Plugin - Copy Block Link
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-mgmeyers-obsidian-copy-block-link-blob-main-rea-18e7d1f76ac)
 [Read Original](https://github.com/mgmeyers/obsidian-copy-block-link/blob/main/README.md)
+
+Get links to blocks and headings from Obsidian's right click menu.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

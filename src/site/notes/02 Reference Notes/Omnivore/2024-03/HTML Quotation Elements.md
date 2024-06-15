@@ -3,11 +3,16 @@
 ---
 
 
-## HTML Quotation Elements
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/html-quotation-elements-18e7457c2ee)
 [Read Original](https://www.w3schools.com/html/html_quotation_elements.asp)
+
+Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

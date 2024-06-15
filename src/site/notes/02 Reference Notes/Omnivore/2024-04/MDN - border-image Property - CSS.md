@@ -3,11 +3,16 @@
 ---
 
 
-## MDN - border-image Property - CSS
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/border-image-css-cascading-style-sheets-mdn-18ee15ee84c)
 [Read Original](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image)
+
+The border-image property allows drawing on image around another as a border - perhaps useful for the Morrowind Modding Wiki
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

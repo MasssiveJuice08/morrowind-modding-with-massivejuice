@@ -3,11 +3,16 @@
 ---
 
 
-## Morrowind:Generic Dialogue: Argonian - The Unofficial Elder Scrolls Pages (UESP)
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/morrowind-generic-dialogue-a-the-unofficial-elder-scrolls-pages--18f3dca0d47)
 [Read Original](https://en.uesp.net/wiki/Morrowind:Generic_Dialogue_A)
+
+The UESPWiki – Your source for The Elder Scrolls since 1995
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

@@ -3,11 +3,16 @@
 ---
 
 
-## Obsidian Plugin - Zoottelkeeper
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-akosbalasko-zoottelkeeper-obsidian-plugin-blob--18e7d0aaacb)
 [Read Original](https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin/blob/master/README.md)
+
+Zoottelkeeper: An automated folder-level index file generator and maintainer for Obsidian.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

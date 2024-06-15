@@ -3,11 +3,16 @@
 ---
 
 
-## Tamriel Data:The Thrassian Campaign - The Unofficial Elder Scrolls Pages (UESP)
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-en-m-uesp-net-wiki-tamriel-data-the-thrassian-campaign-18f6ba7d261)
 [Read Original](https://en.m.uesp.net/wiki/Tamriel_Data:The_Thrassian_Campaign)
+
+On the nature of the Sload, collected from the Notes of Bendu Olo, West King of Anvil and Baron-Admiral of the All Flags Navy, and Dealer of Swift Justice to the Foul Spot of Thras.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

@@ -3,11 +3,16 @@
 ---
 
 
-## SMOOTH Image Zoom on Hover Effects with CSS
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-w-3-bits-com-css-image-hover-zoom-18f1a310388)
 [Read Original](https://w3bits.com/css-image-hover-zoom/)
+
+A bunch of instant CSS recipes to achieve slick image hover zoom effects coupled with some rotation, scaling, blurring, and more.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

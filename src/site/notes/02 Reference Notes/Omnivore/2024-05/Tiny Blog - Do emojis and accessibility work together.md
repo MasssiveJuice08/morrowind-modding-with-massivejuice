@@ -3,11 +3,16 @@
 ---
 
 
-## Tiny Blog - Do emojis and accessibility work together
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/do-emojis-and-accessibility-work-together-18fb8b42405)
 [Read Original](https://www.tiny.cloud/blog/emojis-and-accessibility/)
+
+An article from Tiny Blog on how to make emojis in web content accessible.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

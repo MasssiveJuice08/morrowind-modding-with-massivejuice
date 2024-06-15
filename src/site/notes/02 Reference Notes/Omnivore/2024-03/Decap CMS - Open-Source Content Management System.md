@@ -3,11 +3,16 @@
 ---
 
 
-## Decap CMS | Open-Source Content Management System
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-decapcms-org-18e4bcc3a4a)
 [Read Original](https://decapcms.org)
+
+Open source content management for your Git workflow
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

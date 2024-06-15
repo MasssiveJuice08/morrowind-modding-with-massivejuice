@@ -3,11 +3,16 @@
 ---
 
 
-## Create and Use Font Awesome Custom Icons for Your Website
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-www-dhiwise-com-post-how-to-create-and-use-font-awesome-cu-18ec20683c6)
 [Read Original](https://www.dhiwise.com/post/how-to-create-and-use-font-awesome-custom-icons)
+
+Know how to use the Font awesome custom icons for your website.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

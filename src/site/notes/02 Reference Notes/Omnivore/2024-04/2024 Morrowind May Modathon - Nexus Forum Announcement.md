@@ -3,11 +3,16 @@
 ---
 
 
-## 2024 Morrowind May Modathon - Nexus Forum Announcement
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/the-2024-morrowind-may-modathon-month-modding-competition-celebr-18f2de988e2)
 [Read Original](https://forums.nexusmods.com/topic/13481169-the-2024-morrowind-may-modathon-month-modding-competition-celebrating-22-years-of-morrowind/)
+
+The 2024 Morrowind May Modathon Month Modding Competition - May 1st-June 2nd Looking to participate? Use the Modathon Logo in your mod description! Also, check out the Achievements Banner (Color Achievements Banner Black and White Achievements Banner) Got questions? Stop by the Modathon Discord C...
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

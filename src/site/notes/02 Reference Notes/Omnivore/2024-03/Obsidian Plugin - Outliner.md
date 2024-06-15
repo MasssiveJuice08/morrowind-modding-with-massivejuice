@@ -3,11 +3,16 @@
 ---
 
 
-## Obsidian Plugin - Outliner
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-vslinko-obsidian-outliner-blob-main-readme-md-18e6bed8883)
 [Read Original](https://github.com/vslinko/obsidian-outliner/blob/main/README.md)
+
+Work with your lists like in Workflowy or RoamResearch
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

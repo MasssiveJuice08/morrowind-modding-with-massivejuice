@@ -3,11 +3,16 @@
 ---
 
 
-## OpenGraph - Preview Social Media Share and Generate Metatags - OpenGraph
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-www-opengraph-xyz-18f786e357f)
 [Read Original](https://www.opengraph.xyz)
+
+OpenGraph is the easiest way to preview and generate open graph meta tags for any website.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

@@ -3,11 +3,16 @@
 ---
 
 
-## How to use font-face in CSS - CSS-Tricks
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-css-tricks-com-snippets-css-using-font-face-in-css-18eb82d077c)
 [Read Original](https://css-tricks.com/snippets/css/using-font-face-in-css/)
+
+An explanation on how to use font-face to utilise custom fonts in web pages
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

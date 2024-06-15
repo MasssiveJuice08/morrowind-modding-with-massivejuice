@@ -3,11 +3,16 @@
 ---
 
 
-## Publish limitations - Obsidian Help
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-help-obsidian-md-obsidian-publish-publish-limitations-18e85d9963d)
 [Read Original](https://help.obsidian.md/Obsidian+Publish/Publish+limitations)
+
+Publish limitations - Obsidian Help
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

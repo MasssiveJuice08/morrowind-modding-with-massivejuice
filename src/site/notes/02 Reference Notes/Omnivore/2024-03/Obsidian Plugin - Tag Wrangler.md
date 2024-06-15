@@ -3,11 +3,16 @@
 ---
 
 
-## Obsidian Plugin - Tag Wrangler
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-pjeby-tag-wrangler-blob-master-readme-md-18e6c0ef91c)
 [Read Original](https://github.com/pjeby/tag-wrangler/blob/master/README.md)
+
+Rename, merge, toggle, and search tags from the Obsidian tag pane.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

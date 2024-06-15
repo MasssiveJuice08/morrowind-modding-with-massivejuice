@@ -3,11 +3,16 @@
 ---
 
 
-## Wikipedia –Article titles
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-en-m-wikipedia-org-wiki-wikipedia-article-titles-18fbe913eb4)
 [Read Original](https://en.m.wikipedia.org/wiki/Wikipedia:Article_titles)
+
+A Wikipedia article defining naming conventions for article titles – Article titles should be recognizable, concise, natural, precise, and consistent.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

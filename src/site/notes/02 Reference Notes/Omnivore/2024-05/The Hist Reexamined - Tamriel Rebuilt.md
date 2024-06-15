@@ -3,11 +3,16 @@
 ---
 
 
-## The Hist Reexamined | Tamriel Rebuilt
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-www-tamriel-rebuilt-org-forum-hist-reexamined-18f6153b6d8)
 [Read Original](https://www.tamriel-rebuilt.org/forum/hist-reexamined)
+
+
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

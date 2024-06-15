@@ -3,11 +3,16 @@
 ---
 
 
-## UESP - Battlespire - Mysticism
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-en-m-uesp-net-wiki-battlespire-mysticism-18fae25a28a)
 [Read Original](https://en.m.uesp.net/wiki/Battlespire:Mysticism)
+
+UESP article on the Mysticism skill in 'Battlespire'
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

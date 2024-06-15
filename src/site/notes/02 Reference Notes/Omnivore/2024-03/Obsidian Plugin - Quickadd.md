@@ -3,11 +3,16 @@
 ---
 
 
-## Obsidian Plugin - Quickadd
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-github-com-chhoumann-quickadd-blob-master-readme-md-18e6c002d5d)
 [Read Original](https://github.com/chhoumann/quickadd/blob/master/README.md)
+
+QuickAdd is a powerful combination of four tools (called choices) - templates, captures, macros, and multis.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

@@ -3,11 +3,16 @@
 ---
 
 
-## The Most Underrated But Obvious Way To Improve A Website
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/https-m-youtube-com-watch-feature-youtu-be-si-x-qct-zl-bj-9-h-rg-18ea2133050)
 [Read Original](https://m.youtube.com/watch?feature=youtu.be&si=XQctZlBj9hRgBhyD&v=HYQLfOOZlgw)
+
+The Most Underrated But Obvious Way To Improve A Website
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 

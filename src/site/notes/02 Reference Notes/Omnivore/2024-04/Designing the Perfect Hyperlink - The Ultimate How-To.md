@@ -3,11 +3,16 @@
 ---
 
 
-## Designing the Perfect Hyperlink - The Ultimate How-To
+## About
+
 #Omnivore
 
 [Read on Omnivore](https://omnivore.app/me/designing-the-perfect-hyperlink-the-ultimate-how-to-18e981945be)
 [Read Original](https://www.webfx.com/blog/web-design/hyperlink-design/)
+
+The design of hyperlinks can affect the usability of your web pages and also the user experience. Here are some tips to improve hyperlink designs.
+
+_This page is powered by [Omnivore](https://omnivore.app) ‐ you can read more about how I use Omnivore here: [[02 Reference Notes/Omnivore/Omnivore - Saving Articles for Citations in Obsidian\|Omnivore - Saving Articles for Citations in Obsidian]]._
 
 ### Highlights
 
