@@ -8,3 +8,6 @@ The Quartz site [Notkesto](https://notes.camargomau.com/) has added a horizontal
 
 A mobile [[01 Fleeting Notes/Hamburger Menu for Quartz\|Hamburger Menu for Quartz]] could make this redundant, but the two could also complement each other.
 
+## Implementation 
+
+Notkesto adds the custom component [LinksHeader.tsx](https://github.com/camargomau/notkesto-site/blob/v4/quartz/components/LinksHeader.tsx) which controls the navbar. Style is determined with [quartz/components/styles/linksHeader.scss](https://github.com/camargomau/notkesto-site/blob/v4/quartz/components/styles/linksHeader.scss).
