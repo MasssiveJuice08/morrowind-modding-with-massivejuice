@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-projects/secret-of-vilmuhn/secret-of-vilmuhn-home/","metatags":{"description":"Secret of Vilmuhm - a Morrowind mod by GrumblingVomit and MassiveJuice","og:image":"https://i.imgur.com/LmCg5HX.png"},"tags":["MOC","Secret-of-Vilmuhn"]}
+{"dg-publish":true,"permalink":"/00-projects/secret-of-vilmuhn/secret-of-vilmuhn-home/","metatags":{"description":"Secret of Vilmuhm - a Morrowind mod by GrumblingVomit and MassiveJuice","og:image":"https://i.imgur.com/LmCg5HX.png"},"pinned":true,"tags":["MOC","Secret-of-Vilmuhn"]}
 ---
 
 ## Secret of Vilmuhn
